@@ -1,0 +1,45 @@
+---
+layout: post
+tags: post
+title: La batalla de Francia
+subtitle: Introducción
+number: Introducción
+---
+
+Toda la actuación francesa fue una gigantesca cagada detrás de otra. Un tal Pretelat había simulado varios ataques alemanes por las Ardenas y avisado a Gamelin del peligro, pero éste lo despachó sin interés.
+
+## I.
+
+La respuesta de las fuerzas francesas fue lentísima y confiada hasta rayar en lo absurdo. Cuando alguien dio a entender al general Huntziger que la agresión alemana se estaba desarrollando como la invasión de Polonia, éste se limitó a encogerse de hombros con gesto teatral y responder: «Polonia es Polonia, y esto es Francia». Asimismo, al saber del paso del Mosa repuso: «Más prisioneros haremos». Aquel mismo día, el cuartel general de Gamelin había declarado: «Aún no es posible determinar en qué sector piensa acometer el enemigo su ataque principal».
+
+<picture>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Le_g%C3%A9n%C3%A9ral_Weygand%2C_Paul-Boncour%2C_et_le_g%C3%A9n%C3%A9ral_Gamelin_-_exercices_combin%C3%A9s_de_1932.jpg/1600px-Le_g%C3%A9n%C3%A9ral_Weygand%2C_Paul-Boncour%2C_et_le_g%C3%A9n%C3%A9ral_Gamelin_-_exercices_combin%C3%A9s_de_1932.jpg">
+</picture>
+
+Lo cierto es que el paso del Mosa no tenía por qué haber sido tan calamitoso de haberse contrarrestado con un contraataque rápido; pero las fuerzas francesas se congregaron con gran apatía para avanzar vacilantes y de forma poco sistemática.
+
+Un tal Pretelat había simulado varios ataques alemanes por las Ardenas y avisado a Gamelin del peligro, pero éste lo despachó sin interés. Más en [Mito de la impenetrabilidad de las Ardenas](https://www.forosegundaguerra.com/viewtopic.php?f=47&t=22338).
+
+Gamelin y sus oficiales incurrieron en un nuevo error, desastroso y tal vez irremediable, al no ser capaces de entender que las tropas de asalto de Von Rundstedt no tenían la intención de proseguir su avance hacia el oeste para alcanzar el corazón de Francia, sino que se dirigían al norte, hacia el mar, al objeto de envolver a los ejércitos británicos y franceses apostados en Bélgica.
+
+## II.
+
+> Entre tanto, los comandantes franceses parecían vivir en un mundo de fantasía. Los oficiales del estado mayor de Gamelin se maravillaron al verlo almorzar en su cuartel general el 19 de mayo entre chistes y comentarios insustanciales pese a la desesperación de sus subordinados.
+
+> Weygand salió de Dunkerque a las 19.00 a bordo de una lancha torpedera en medio de una incursión aérea, y a las 10.00 del día siguiente llegó a su cuartel general. Durante el tiempo que estuvo deambulando sin provecho por la región septentrional de Francia, los carros de combate, cañones y soldados alemanes no dejaron de avanzar en dirección norte y oeste a través de la descomunal brecha que se había abierto en las líneas aliadas.
+
+> Aunque la retirada y la evacuación se entendieron, en general, como un triunfo personal de lord Gort, cumple reconocer que, por apropiadas que fuesen las instrucciones que, de hecho, dio el comandante en jefe, semejante logro habría sido imposible si Hitler no hubiese omitido hacer participar a sus carros de combate. Resulta improbable, aunque sí admisible, que tal cosa se debiera a una decisión política, provocada por el convencimiento de que actuando con moderación iba a ser más fácil que el Reino Unido se aviniera a negociar la paz. Más creíble parece que Hitler aceptara las garantías ofrecidas por Goering acerca de la destrucción por parte de la Luftwaffe del cuerpo expedicionario, que, además, no suponía ya ninguna amenaza para la estrategia alemana, en tanto que los Panzer necesitaban ser reparados con urgencia antes de que los enviasen a atacar a las fuerzas de Weygand.
+
+La gran vergüenza de Francia:
+
+> El teniente Georges Friedmann, filósofo, escribió: «Hoy no detecto, entre muchos de los franceses, ningún sentimiento de dolor por los infortunios de su patria… Sólo he observado algo semejante a un alivio complaciente (y aun jubiloso), una suerte de vil satisfacción atávica ante el conocimiento de que “para nosotros, se acabó”, sin que parezca importar nada más[50]». La derecha política francesa aplaudió la llegada al poder del régimen de Pétain, y de hecho, uno de sus partidarios escribió a un amigo: «Por fin hemos logrado la victoria».
+
+> El que Churchill convenciese al pueblo británico de la necesidad de adoptar un criterio diferente y rechazar la realidad tal como la percibía dio lugar a un sentimiento perdurable de envidia, rencor y amargura por parte de los franceses.
+
+Y la otra. La resistencia francesa fue un mito.
+
+> En 1940 y los años posteriores fueron poquísimos los franceses que siguieron el ejemplo ofrecido por las decenas de miles de polacos que siguieron luchando en el exilio aun después de la derrota de su nación. Sólo entre 1943 y 1944, cuando se hizo evidente que los Aliados iban a ganar la guerra y llegó a extremos intolerables la opresión ejercida por la ocupación alemana, accedió una porción considerable del pueblo francés a ofrecer ayuda significativa a los angloestadounidenses.
+
+···
+
+Uno de cuantos contemplaron con estupefacción la caída de Francia fue el mismísimo Stalin. Pese al cumplido telegrama que envió Molótov a Hitler para expresarle sus parabienes por la toma de París, lo cierto es que la victoria nazi provocó terror en Moscú, por cuanto todos los cálculos estratégicos de los soviéticos se cifraban en el convencimiento de que se iba a producir en el continente una carnicería prolongada que debilitaría de forma drástica tanto a Alemania como a las potencias occidentales. Sergei Khruschev (ed)., The memoirs of Nikita Khruschev, Thomas Watson Institute, 2004, vol. I, p. 256.
