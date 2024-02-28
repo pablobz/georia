@@ -5,7 +5,7 @@ title: Georia
 
 <article>
 
-  <h1>GEORiA⬌</h1>
+  <h1>GEORiA</h1>
 
   <p>Georia es un sitio web para la enseñanza de las materias de <em>Geografía</em>, <em>Historia</em> e <em>Historia del Arte</em> en la Educación Secundaria Obligatoria y el Bachillerato. El objetivo es es desarrollar, recopilar y utilizar mejores <a>herramientas para aprender</a> ∎</p>
 
@@ -29,7 +29,7 @@ title: Georia
       <td></td>
       <td></td>
     </tr>
-    {%- for curso in collections.curso -%}
+    {%- for curso in collections.curso | getOrdered -%}
       <tr>
         <td>
           ᮰ <a href="{{ curso.url }}">{{ curso.data.title }}</a>

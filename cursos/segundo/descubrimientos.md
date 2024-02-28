@@ -1,9 +1,8 @@
 ---
-layout: unidad
+layout: lesson
 tags: unidad
-title: Descubrimientos
-subtitle: Introducción
-number: Introducción
+title: La era de los descubrimientos
+curso: eso2
 ---
 
 ## Metas docentes

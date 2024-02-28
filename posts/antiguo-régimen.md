@@ -1,9 +1,8 @@
 ---
-layout: post
-tags: post
+layout: lesson
+tags: unidad
 title: El enemigo era el hambre
-subtitle: Introducción
-number: Introducción
+curso: eso4
 ---
 
 

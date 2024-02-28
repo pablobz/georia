@@ -21,6 +21,20 @@
       </h1>
       <main>
         {{ content }}
+
+        <table>
+
+{%- for unidad in collections.unidad -%}
+  {%- if unidad.data.curso == codigo -%}
+  <tr>
+    <td>
+      <a href="{{ unidad.url }}">{{ unidad.data.title }}</a>
+    </td>
+  </tr>
+  {%- endif -%}
+{%- endfor -%}
+
+</table>
       </main>
     </article>
 
