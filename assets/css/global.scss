@@ -1,20 +1,18 @@
 
 $blue: #04f;
-$sans: Arial, Helvetica Neue, sans-serif;
-$serif: Georgia, Times New Roman, serif;
+$sans: "Roboto", "Proxima Nova", Arial, Helvetica Neue, sans-serif;
+$serif: "PT Serif", "Minion Pro", Georgia, Times New Roman, serif;
 $mono: monospace;
 
 // css
 
 body {
   background: #fff;
-  font-family: $sans;
+  font-family: $serif;
   color: #222;
-  font-size: 23px;
-  line-height: 29px;
+  font-size: 22px;
+  line-height: 30px;
   text-rendering: optimizeSpeed;
-  -moz-osx-font-smoothing: grayscale;   /* Firefox */
-     -webkit-font-smoothing: antialiased; /* WebKit  */margin: 0;
   padding: 0;
   hyphens: auto;
   -webkit-hyphens: auto;
@@ -66,13 +64,13 @@ header {
 h1, h2, h3 {
   font-family: $sans;
   line-height: 0.9em;
-  font-weight: normal;
+  font-weight: bold;
   letter-spacing: -1px;
   hyphens: none;
   -webkit-hyphens: none;
   margin: 32px 32px 16px 32px;
   text-transform: normal;
-  max-width: 960px;
+  max-width: 880px;
 
   @media (prefers-color-scheme: dark) {
     color: #fff;
@@ -104,7 +102,7 @@ h3 {
 }
 
 a {
-  color: $blue;
+  color: black;
   text-decoration: underline;
   text-decoration-thickness: 1px;
 
@@ -124,12 +122,12 @@ article {
 
   & p {
     margin: 0 32px 24px 32px;
-    max-width: 960px;
+    max-width: 880px;
   }
 
   & ul, & ol {
     margin: 0 32px 24px;
-    max-width: 960px;
+    max-width: 880px;
 
     & p {
       margin: 0 0 24px;
@@ -156,6 +154,7 @@ article {
 blockquote {
   margin: 32px;
   font-family: $serif;
+  font-style: italic;
 
   & p {
     color: #000;
@@ -215,7 +214,7 @@ figcaption {
 }
 
 img {
-  max-width: 960px;
+  max-width: 880px;
 }
 
 .right {
