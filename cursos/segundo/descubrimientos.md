@@ -19,6 +19,16 @@ La escena representa, según una interpretación muy personal del pintor, la pri
 
 3. Conocer y valorar las culturas precolombinas en su diversidad, como pueblos complejos y desarrollados, y entrar en contacto con sus principales manifestaciones artísticas.
 
+## Pregunta guía
+
+Por qué no se habían conocido antes los pueblos euroasiáticos y americanos. Relación con la cuestión clave de la modernidad: la mirada pretérita y la desconfianza en el futuro. Relación también con el próximo tema, que trata en detalle la nueva mentalidad.
+
+## Relación con la actualidad
+
+Tratar de imbuir una aproximación al pasado basada en el asombro de que un simple viaje pudiera tener tantas consecuencias y cambiar el mundo a tantos niveles distintos. Imaginar qué podría pasar hoy día y deducir que no somos capaces de preverlo, que todo lo que tenemos, tanto lo bueno como lo malo, puede cambiar y seguramente cambie. 
+
+Pensar cuál será la América de nuestro tiempo. ¿Marte? ¿La luna? ¿Otras galaxias? ¿Cómo trataríamos a una raza alienígena que encontrásemos en la exploración espacial?
+
 ## Tareas
 
 ### Diario de a bordo (Individual, por escrito)
