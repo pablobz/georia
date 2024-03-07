@@ -1,6 +1,6 @@
 
 $blue: #04f;
-$sans: "Roboto", "Proxima Nova", Arial, Helvetica Neue, sans-serif;
+$sans:  "Roboto", "Proxima Nova", Arial, Helvetica Neue, sans-serif;
 $serif: "PT Serif", "Minion Pro", Georgia, Times New Roman, serif;
 $mono: monospace;
 
@@ -8,17 +8,17 @@ $mono: monospace;
 
 body {
   background: #fff;
-  font-family: $serif;
+  font-family: $mono;
   color: #222;
-  font-size: 22px;
-  line-height: 30px;
+  font-size: 19px;
+  line-height: 28px;
   text-rendering: optimizeSpeed;
-  padding: 0;
+  padding: 40px;
   hyphens: auto;
   -webkit-hyphens: auto;
 
   @media (prefers-color-scheme: dark) {
-    background: #111;
+    background: #1a1c1e;
   }
 }
 
@@ -30,7 +30,6 @@ sup {
 
 nav {
   margin: 16px 32px;
-  font-size: 20px;
   color: #999;
 
   @media (prefers-color-scheme: dark) {
@@ -62,15 +61,15 @@ header {
 }
 
 h1, h2, h3 {
-  font-family: $sans;
-  line-height: 0.9em;
+  font-family: $mono;
+  line-height: 1.15em;
   font-weight: bold;
-  letter-spacing: -1px;
+  letter-spacing: 0;
   hyphens: none;
   -webkit-hyphens: none;
   margin: 32px 32px 16px 32px;
   text-transform: normal;
-  max-width: 880px;
+  max-width: 820px;
 
   @media (prefers-color-scheme: dark) {
     color: #fff;
@@ -84,10 +83,10 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 66px;
   letter-spacing: -3px;
-  margin-top: 16px;
-  margin-bottom: 128px;
+  margin-top: 64px;
+  margin-bottom: 64px;
 }
 
 h2 {
@@ -98,13 +97,13 @@ h2 {
 }
 
 h3 {
-  font-size: 30px;
+  font-size: 22px;
 }
 
 a {
   color: black;
   text-decoration: underline;
-  text-decoration-thickness: 1px;
+  text-decoration-thickness: 2px;
 
   @media (prefers-color-scheme: dark) {
     color: #fff;
@@ -122,12 +121,12 @@ article {
 
   & p {
     margin: 0 32px 24px 32px;
-    max-width: 880px;
+    max-width: 820px;
   }
 
   & ul, & ol {
     margin: 0 32px 24px;
-    max-width: 880px;
+    max-width: 770px;
 
     & p {
       margin: 0 0 24px;
@@ -153,14 +152,12 @@ article {
 
 blockquote {
   margin: 32px;
-  font-family: $serif;
-  font-style: italic;
+  font-family: $mono;
 
   & p {
     color: #000;
     margin: 0;
-    font-size: 30px;
-    line-height: 34px;
+    font-weight: bold;
 
     @media (prefers-color-scheme: dark) {
       color: #eef;
@@ -214,7 +211,7 @@ figcaption {
 }
 
 img {
-  max-width: 880px;
+  max-width: 820px;
 }
 
 .right {
