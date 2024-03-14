@@ -1,6 +1,6 @@
 
 $blue: #04f;
-$sans:  "Roboto", "Proxima Nova", Arial, Helvetica Neue, sans-serif;
+$sans:  Arial, Helvetica Neue, sans-serif;
 $serif: "PT Serif", "Minion Pro", Georgia, Times New Roman, serif;
 $mono: monospace;
 
@@ -8,10 +8,10 @@ $mono: monospace;
 
 body {
   background: #fff;
-  font-family: $mono;
+  font-family: $sans;
   color: #222;
-  font-size: 19px;
-  line-height: 28px;
+  font-size: 23px;
+  line-height: 29px;
   text-rendering: optimizeSpeed;
   padding: 40px;
   hyphens: auto;
@@ -61,7 +61,6 @@ header {
 }
 
 h1, h2, h3 {
-  font-family: $mono;
   line-height: 1.15em;
   font-weight: bold;
   letter-spacing: 0;
@@ -152,7 +151,6 @@ article {
 
 blockquote {
   margin: 32px;
-  font-family: $mono;
 
   & p {
     color: #000;
