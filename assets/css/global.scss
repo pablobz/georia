@@ -10,8 +10,8 @@ body {
   background: #fff;
   font-family: $sans;
   color: #222;
-  font-size: 23px;
-  line-height: 29px;
+  font-size: 24px;
+  line-height: 33px;
   text-rendering: optimizeSpeed;
   padding: 40px;
   hyphens: auto;
@@ -102,7 +102,7 @@ h3 {
 a {
   color: black;
   text-decoration: underline;
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: 3px;
 
   @media (prefers-color-scheme: dark) {
     color: #fff;
