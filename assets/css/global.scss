@@ -1,19 +1,23 @@
 
-$blue: #04f;
+$blue: #25f;
 $sans:  Arial, Helvetica Neue, sans-serif;
-$serif: Georgia, Times New Roman, serif;
+$serif: Times New Roman, serif;
 $mono: monospace;
 
 // css
 
+html {
+  min-height: 100vh;
+}
+
 body {
   background: #fff;
-  font-family: $sans;
+  font-family: $serif;
   color: #222;
-  font-size: 24px;
-  line-height: 31px;
+  font-size: 34px;
+  line-height: 42px;
   text-rendering: optimizeSpeed;
-  padding: 40px;
+  padding: 20px 40px;
   hyphens: auto;
   -webkit-hyphens: auto;
   -webkit-font-smoothing: none;
@@ -62,14 +66,14 @@ header {
 }
 
 h1, h2, h3 {
-  line-height: 1.15em;
+  line-height: 1.1em;
   font-weight: bold;
   letter-spacing: 0;
-  hyphens: none;
-  -webkit-hyphens: none;
+  hyphens: auto;
+  -webkit-hyphens: auto;
   margin: 32px 32px 16px 32px;
   text-transform: normal;
-  max-width: 960px;
+  max-width: 100%;
 
   @media (prefers-color-scheme: dark) {
     color: #fff;
@@ -83,17 +87,19 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 66px;
+  font-size: 236px;
   letter-spacing: -3px;
   margin-top: 64px;
-  margin-bottom: 64px;
+  margin-bottom: 192px;
+  text-shadow: -40px 87px $blue;
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 100px;
   padding: 0;
   letter-spacing: -1px;
   margin-top: 64px;
+  text-shadow: -15px 29px $blue;
 }
 
 h3 {
@@ -101,7 +107,7 @@ h3 {
 }
 
 a {
-  color: black;
+  color: $blue;
   text-decoration: underline;
   text-decoration-thickness: 3px;
 
@@ -122,6 +128,22 @@ article {
   & p {
     margin: 0 32px 24px 32px;
     max-width: 960px;
+  }
+
+  & p.big {
+    margin: 96px 24px;
+    font-size: 112px;
+    line-height: 1em;
+    max-width: 100%;
+    font-family: $serif;
+    text-shadow: 4px 8px $blue;
+
+    & span {
+      color: black;
+      text-shadow: 0 12px red;
+      
+    }
+
   }
 
   & ul, & ol {
@@ -150,15 +172,27 @@ article {
 
 }
 
+span.number {
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  background: $blue;
+  color: white;
+  border-radius: 50%;
+}
+
 blockquote {
   margin: 32px;
-  font-family: $serif;
+  font-family: $sans;
 
   & p {
-    font-size: 1.15em;
+    font-weight: bold;
+    font-size: 68px;
+    line-height: 74px;
     color: #000;
     margin: 0;
-    font-weight: bold;
+    max-width: 100%;
 
     @media (prefers-color-scheme: dark) {
       color: #eef;

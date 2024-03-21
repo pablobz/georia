@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: post
-title: Bakunin — Carta a Rubicone Nabruzzi
+title: Carta a Rubicone Nabruzzi
 curso: Cuarto
 tema: 7
 orden: 5

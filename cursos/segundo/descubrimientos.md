@@ -1,7 +1,7 @@
 ---
 layout: lesson
 tags: unidad
-title: La era de los descubrimientos
+title: El giro colombino
 curso: eso2
 ---
 
@@ -68,7 +68,7 @@ Inventa un miembro de la expedición de Colón y escribe su diario.
 
 ## Quién vivía en América
 
-A casi todo el mundo le asalta la misma duda cuando piensa en el descubrimiento de América. Cuando llegó Colón allí ya vivía gente. ¿Quién era esa gente? ¿De dónde había salido?
+<p class="big">Cuando llegó Colón allí ya vivía gente. <span>¿Quién era esa gente?</span> ¿De dónde había salido?</p>
 
 Parece conveniente empezar por ahí.
 

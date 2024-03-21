@@ -1,16 +1,29 @@
 ---
 layout: post
 tags: post
-title: La batalla de Francia
+title: La vergüenza de Francia
 subtitle: Introducción
 number: Introducción
 ---
 
 Toda la actuación francesa fue una gigantesca cagada detrás de otra. Un tal Pretelat había simulado varios ataques alemanes por las Ardenas y avisado a Gamelin del peligro, pero éste lo despachó sin interés.
 
++ La ceguera de Versalles.
++ La línea Maginot.
++ El Coronel Motor.
++ El aviso de Pretelat.
++ La ignominia de Vichy.
++ El mito de la resistencia.
+
 ## I.
 
-La respuesta de las fuerzas francesas fue lentísima y confiada hasta rayar en lo absurdo. Cuando alguien dio a entender al general Huntziger que la agresión alemana se estaba desarrollando como la invasión de Polonia, éste se limitó a encogerse de hombros con gesto teatral y responder: «Polonia es Polonia, y esto es Francia». Asimismo, al saber del paso del Mosa repuso: «Más prisioneros haremos». Aquel mismo día, el cuartel general de Gamelin había declarado: «Aún no es posible determinar en qué sector piensa acometer el enemigo su ataque principal».
+La respuesta de las fuerzas francesas fue lentísima y confiada hasta rayar en lo absurdo. Cuando alguien dio a entender al general Huntziger que la agresión alemana se estaba desarrollando como la invasión de Polonia, éste se limitó a encogerse de hombros con gesto teatral y responder: 
+
+> «Polonia es Polonia, <br> y esto es Francia». 
+
+Asimismo, al saber del paso del Mosa repuso: «Más prisioneros haremos». Aquel mismo día, el cuartel general de Gamelin había declarado: 
+
+> «Aún no es posible determinar en qué sector piensa acometer el enemigo su ataque principal».
 
 <picture>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Le_g%C3%A9n%C3%A9ral_Weygand%2C_Paul-Boncour%2C_et_le_g%C3%A9n%C3%A9ral_Gamelin_-_exercices_combin%C3%A9s_de_1932.jpg/1600px-Le_g%C3%A9n%C3%A9ral_Weygand%2C_Paul-Boncour%2C_et_le_g%C3%A9n%C3%A9ral_Gamelin_-_exercices_combin%C3%A9s_de_1932.jpg">

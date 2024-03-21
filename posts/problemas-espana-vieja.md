@@ -5,21 +5,12 @@ title: Los problemas de la España vieja
 curso: eso4
 ---
 
-### 2.1. ¿Qué es una república?
-
 Siempre es buena idea empezar por la definición de las palabras. Consultemos al diccionario para ver qué significa eso de [república](https://dle.rae.es/rep%C3%BAblica?m=form):
-
-
-💡 Del lat. `respublĭca`. Organización del Estado cuya máxima autoridad es elegida por los ciudadanos o por el Parlamento para un período determinado.
-
-
 
 Una república es un Estado cuya máxima autoridad es elegida para un período determinado. Por ejemplo, en la España actual, la máxima autoridad del Estado es el Rey. El Rey no es elegido, sino que lo es por nacimiento; y tampoco desempeña su papel durante un período determinado, sino que reina de forma [vitalicia](https://dle.rae.es/vitalicio?m=form). España es una monarquía, no una república.
 
 
-❗ Es importante que no confundas una `república` con una `democracia`. Todas las repúblicas son democráticas en mayor o menor medida (precisamente porque al Jefe del Estado lo eligen los ciudadanos) pero todas las democracias no son repúblicas. En 🇪🇸 España no elegimos al Jefe del Estado, pero sí al Presidente del Gobierno y a muchas otras autoridades públicas (que son, en la práctica, más importantes que el Rey). Lo mismo ocurre en el 🇬🇧 Reino Unido, en 🇯🇵 Japón, en 🇸🇪 Suecia, en 🇧🇪 Bélgica o en los 🇳🇱 Países Bajos, por citar algunos ejemplos. Todos esos países son perfectamente democráticos, pero no son repúblicas, sino monarquías.
-
-
+Es importante que no confundas una `república` con una `democracia`. Todas las repúblicas son democráticas en mayor o menor medida (precisamente porque al Jefe del Estado lo eligen los ciudadanos) pero todas las democracias no son repúblicas. En 🇪🇸 España no elegimos al Jefe del Estado, pero sí al Presidente del Gobierno y a muchas otras autoridades públicas (que son, en la práctica, más importantes que el Rey). Lo mismo ocurre en el 🇬🇧 Reino Unido, en 🇯🇵 Japón, en 🇸🇪 Suecia, en 🇧🇪 Bélgica o en los 🇳🇱 Países Bajos, por citar algunos ejemplos. Todos esos países son perfectamente democráticos, pero no son repúblicas, sino monarquías.
 
 España fue una república durante el período que va del año 1931 a 1939, aunque, realmente, los años que importan son de 1931 a 1936, porque en 1936 el país entró en una guerra civil. 
 
@@ -27,7 +18,7 @@ No fue la primera vez que España se convertía en una república. Ya lo había 
 
 Lo importante, como siempre, no es saber las fechas ni los datos concretos, sino entender por qué tuvo lugar ese cambio de régimen.
 
-### 2.2. ¿Que pasó para que España abandonara la monarquía?
+## ¿Que pasó para que España abandonara la monarquía?
 
 Muchas cosas, obviamente. Vamos a explicarlas de una en una, desde la más lejana hasta la más cercana.
 
