@@ -68,6 +68,10 @@ Inventa un miembro de la expedición de Colón y escribe su diario.
 
 ## Quién vivía en América
 
+A casi todo el mundo le asalta la misma duda cuando piensa en el descubrimiento de América. Cuando llegó Colón allí ya vivía gente. ¿Quién era esa gente? ¿De dónde había salido?
+
+Parece conveniente empezar por ahí.
+
 Hace miles de años, cuando la especie Homo Sapiens salió de África y se dispersó por el mundo, la temperatura era menor que hoy. Los polos ocupaban más espacio y había glaciares que llenaban de hielo lo que hoy son tierras pobladas y fértiles. El estrecho de Bering, que separa los continentes de Asia y América por el Norte, era entonces transitable, y algunas comunidades humanas lo cruzaron en busca de tierras más cálidas donde asentarse. 
 
 Así se pobló América de seres humanos. Mucho tiempo después el clima cambió, la temperatura subió, el hielo se derritió y los dos continentes quedaron separados, como siguen estando hoy. Los seres humanos que poblaron América perdieron contacto con los que quedaron en el resto de continentes. 

@@ -11,11 +11,12 @@ body {
   font-family: $sans;
   color: #222;
   font-size: 24px;
-  line-height: 33px;
+  line-height: 31px;
   text-rendering: optimizeSpeed;
   padding: 40px;
   hyphens: auto;
   -webkit-hyphens: auto;
+  -webkit-font-smoothing: none;
 
   @media (prefers-color-scheme: dark) {
     background: #1a1c1e;
@@ -68,7 +69,7 @@ h1, h2, h3 {
   -webkit-hyphens: none;
   margin: 32px 32px 16px 32px;
   text-transform: normal;
-  max-width: 1024px;
+  max-width: 960px;
 
   @media (prefers-color-scheme: dark) {
     color: #fff;
@@ -120,7 +121,7 @@ article {
 
   & p {
     margin: 0 32px 24px 32px;
-    max-width: 1024px;
+    max-width: 960px;
   }
 
   & ul, & ol {
@@ -209,7 +210,7 @@ figcaption {
 }
 
 img {
-  max-width: 1024px;
+  max-width: 960px;
 }
 
 .right {
