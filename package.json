@@ -21,6 +21,7 @@
     "sass": "^1.63.4"
   },
   "dependencies": {
+    "@fontsource/fira-mono": "^5.0.12",
     "eleventy-sass": "^2.2.1",
     "markdown-it-footnote": "^3.0.3"
   }

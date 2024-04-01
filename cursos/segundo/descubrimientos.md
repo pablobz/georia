@@ -9,6 +9,10 @@ curso: eso2
 
 En tierra firme un Colón de blanca cabellera, rodilla en tierra, vestido de rojo, con el estandarte enhiesto en su mano izquierda y la espada rendida en la derecha, dirige los ojos hacia el cielo. Le rodean sus compañeros, que van llegando en barcas, representados por personajes vestidos de distinto modo según sean marineros o soldados. 
 
+<picture>
+<img src="/assets/img/desembarco-colon.jpg">
+</picture>
+
 ## Metas docentes
 
 1. Comprender las causas del viaje de Colón en el doble contexto macrohistórico (el desarrollo de las civilizaciones euroasiáticas frente a las americanas) y microhistórico (el papel de Castilla frente a otros reinos atlánticos y mediterráneos). 
