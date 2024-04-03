@@ -1,8 +1,8 @@
-$white: #fff;
+$white: #fed;
 $blue: #25f;
 $sans: "Rubik", Arial, Helvetica, Helvetica Neue, sans-serif;
 $serif: "PT Serif", Times New Roman, serif;
-$mono: monospace;
+$mono: "MonaspiceXe Nerd Font Mono", "Courier Prime", Courier, monospace;
 
 // css
 
@@ -14,16 +14,16 @@ html {
 
 body {
   background: $white;
-  font-family: $sans;
+  font-family: $mono;
   color: #222;
-  font-size: 26px;
-  line-height: 1.3em;
+  font-size: 23px;
+  line-height: 1.4em;
   text-rendering: optimizeSpeed;
   margin: 0;
   padding: 0;
   hyphens: auto;
   -webkit-hyphens: auto;
-  -webkit-font-smoothing: none;
+  //-webkit-font-smoothing: none;
 
   @media (prefers-color-scheme: dark) {
     background: #1a1c1e;
@@ -33,8 +33,7 @@ body {
 nav {
   padding: 16px 32px;
   text-transform: uppercase;
-  letter-spacing: -2px;
-  font-size: 26px;
+  font-size: 24px;
   font-weight: bold;
 
   @media (prefers-color-scheme: dark) {
@@ -59,8 +58,8 @@ h1, h2, h3 {
   font-weight: bold;
   letter-spacing: 0;
   margin: 32px 32px 16px 32px;
-  text-transform: uppercase;
-  max-width: 1160px;
+ // text-transform: uppercase;
+  max-width: 1024px;
 
   @media (prefers-color-scheme: dark) {
     color: #eed;
@@ -69,24 +68,21 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 96px;
-  letter-spacing: -6px;
+  font-size: 76px;
   margin-top: 64px;
   margin-bottom: 32px;
 }
 
 h2 {
-  font-size: 48px;
+  font-size: 38px;
   padding: 0;
-  letter-spacing: -2px;
   margin-top: 64px;
   margin-bottom: 32px;
 }
 
 h3 {
-  font-size: 42px;
+  font-size: 32px;
   font-weight: normal;
-  letter-spacing: -2px;
 }
 
 a {
@@ -117,13 +113,13 @@ article {
 
   & p {
     margin: 0 32px 32px;
-    max-width: 1160px;
+    max-width: 1024px;
     vertical-align: middle;
   }
 
   & ul, & ol {
     margin: 0 32px 32px;
-    max-width: 1070px;
+    max-width: 970px;
 
     & p {
       margin: 0 0 32px;
@@ -161,10 +157,10 @@ blockquote {
   margin: 32px 32px;
 
   & p {
-    font-size: 35px;
-    line-height: 1.15em;
+    font-size: 30px;
+    line-height: 1.2em;
     margin: 0;
-    max-width: 1160px;
+    max-width: 1024px;
 
     @media (prefers-color-scheme: dark) {
     }
@@ -217,7 +213,7 @@ figcaption {
 }
 
 img {
-  max-width: 1160px;
+  max-width: 1024px;
 }
 
 .right {

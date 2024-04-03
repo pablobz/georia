@@ -13,21 +13,23 @@ Ambos países compiten de forma continua y de forma total, es decir, tratan de s
 
 Los dos países que se enfrentaron en la época conocida como Guerra Fría fueron: 
 
-- Los **Estados Unidos de América** (también llamado Estados Unidos o **EEUU**).
-- La **Unión de Repúblicas Socialistas Soviéticas** (también llamada Unión Soviética o **URSS**).
+- Los Estados Unidos de América (también llamado Estados Unidos o EEUU).
+- La Unión de Repúblicas Socialistas Soviéticas (también llamada Unión Soviética o URSS).
+
+···
 
 Sin embargo, una característica fundamental de este período es que no afectó sólo a esos dos países, sino a todo el mundo. El poder de ambos países era, o aspiraba a ser, global.
 
 A estos países se les empezó a llamar entonces `superpotencias`, un término nuevo que es parecido a imperio, pero que transmite un poder económico y militar todavía mayor.
 
----
+···
 
 En la mayoría de los casos, los demás países del mundo se alinearon junto a una de esas dos superpotencias. Así se crearon los llamados `bloques`:
 
-- Al primer bloque, el que lideraba Estados Unidos, se le llamó **Bloque Occidental** o Bloque Capitalista.
-- Al segundo, el que lideraba la Unión Soviética, se le llamó Bloque Oriental o **Bloque Comunista**.
+- Al primer bloque, el que lideraba Estados Unidos, se le llamó Bloque Occidental o Bloque Capitalista.
+- Al segundo, el que lideraba la Unión Soviética, se le llamó Bloque Oriental o Bloque Comunista.
 
----
+···
 
 La Guerra Fría duró algo más de cuarenta años. Empezó justo después de la Segunda Guerra Mundial y terminó en 1991, con la derrota y desaparición de la Unión Soviética. Sin embargo, como ya has visto en 1§1, esa derrota no fue consecuencia de una guerra contra Estados Unidos ni contra el Bloque Occidental, pues esa guerra nunca existió. La derrota de la URSS se debió a otras razones, como veremos en el punto 6.
 
@@ -48,31 +50,31 @@ La Guerra Fría duró algo más de cuarenta años. Empezó justo después de la 
 
 ## El inicio de la Guerra Fría
 
-**2§1**. Europa quedó devastada después de la guerra y para reconstruirse necesitó la ayuda de los ganadores, que fueron Estados Unidos y la Unión Soviética. El Reino Unido, por sí mismo, habría sido incapaz de derrotar a la Alemania nazi, de modo que su importancia quedó muy reducida. Francia había sido derrotada y su participación en la guerra fue poco importante. Alemania quedó destrozada y dividida, al igual que Japón.
+2§1. Europa quedó devastada después de la guerra y para reconstruirse necesitó la ayuda de los ganadores, que fueron Estados Unidos y la Unión Soviética. El Reino Unido, por sí mismo, habría sido incapaz de derrotar a la Alemania nazi, de modo que su importancia quedó muy reducida. Francia había sido derrotada y su participación en la guerra fue poco importante. Alemania quedó destrozada y dividida, al igual que Japón.
 
-**2§2**. Aunque algunos países europeos, como el Reino Unido, Francia y Alemania, siguieron siendo relevantes en el mundo, y aún lo son, se convirtieron en potencias de segundo orden. A nivel económico y militar, los nuevos "amos" del mundo eran EEUU y la URSS.
+2§2. Aunque algunos países europeos, como el Reino Unido, Francia y Alemania, siguieron siendo relevantes en el mundo, y aún lo son, se convirtieron en potencias de segundo orden. A nivel económico y militar, los nuevos "amos" del mundo eran EEUU y la URSS.
 
-**2§3**. Esas dos superpotencias habían colaborado durante la guerra porque tenían un enemigo común. Ese enemigo era la Alemania nazi. Sin embargo, cuando Alemania cayó, quedó claro que EEUU y la URSS no tenían nada en común, y de hecho eran rivales irreconciliables en el plano ideológico. EEUU era un país capitalista. La URSS era un país comunista. Ambos buscaban el hundimiento y la derrota del otro, de modo que la colaboración era imposible.
+2§3. Esas dos superpotencias habían colaborado durante la guerra porque tenían un enemigo común. Ese enemigo era la Alemania nazi. Sin embargo, cuando Alemania cayó, quedó claro que EEUU y la URSS no tenían nada en común, y de hecho eran rivales irreconciliables en el plano ideológico. EEUU era un país capitalista. La URSS era un país comunista. Ambos buscaban el hundimiento y la derrota del otro, de modo que la colaboración era imposible.
 
-**2§4**. EEUU y la URSS acordaron dividir Europa en dos "zonas de influencia". Los países que había conquistado la Unión Soviética durante la guerra (Bielorrusia, Polonia, Ucrania, Hungría, Checoslovaquia) se convirtieron en nuevas Repúblicas Soviéticas dentro de la URSS. Los que había liberado Estados Unidos (Francia, Bélgica, Países Bajos e Italia) recuperaron su independencia, aunque quedaron bajo influencia americana.
+2§4. EEUU y la URSS acordaron dividir Europa en dos "zonas de influencia". Los países que había conquistado la Unión Soviética durante la guerra (Bielorrusia, Polonia, Ucrania, Hungría, Checoslovaquia) se convirtieron en nuevas Repúblicas Soviéticas dentro de la URSS. Los que había liberado Estados Unidos (Francia, Bélgica, Países Bajos e Italia) recuperaron su independencia, aunque quedaron bajo influencia americana.
 
-**2§5**. Alemania quedó finalmente dividida en dos mitades. La Occidental sería democrática y capitalista y se llamaría República Federal Alemana (RFA). La Oriental sería comunista y se llamaría República Democrática Alemana (RDA). Aunque la capital, Berlín, estaba dentro de la zona oriental, esa ciudad también se dividió en dos mitades, cada una controlada por uno de los bloques.
+2§5. Alemania quedó finalmente dividida en dos mitades. La Occidental sería democrática y capitalista y se llamaría República Federal Alemana (RFA). La Oriental sería comunista y se llamaría República Democrática Alemana (RDA). Aunque la capital, Berlín, estaba dentro de la zona oriental, esa ciudad también se dividió en dos mitades, cada una controlada por uno de los bloques.
 
 ## El Bloque Occidental
 
-**3§1**. Estados Unidos puso en marcha rápidamente un plan de ayuda económica a los países de Europa Occidental. Esa ayuda, cuya cuantía económica fue enorme, se llamó Plan Marshall, y afectó al Reino Unido, Francia, Bélgica, Países Bajos y Alemania Occidental.
+3§1. Estados Unidos puso en marcha rápidamente un plan de ayuda económica a los países de Europa Occidental. Esa ayuda, cuya cuantía económica fue enorme, se llamó Plan Marshall, y afectó al Reino Unido, Francia, Bélgica, Países Bajos y Alemania Occidental.
 
-**3§2**. El Plan Marshall tenía el objetivo de que los países europeos se reconstruyeran y se recuperaran económicamente lo antes posible, pues entendía que si esas sociedades encontraban una rápida prosperidad estarían contentas en el Bloque Occidental, y cualquier intento de revolución comunista estaría abocado al fracaso. En otras palabras, Estados Unidos quería evitar que la posguerra trajera una crisis económica como había ocurrido tras la Primera Guerra Mundial.
+3§2. El Plan Marshall tenía el objetivo de que los países europeos se reconstruyeran y se recuperaran económicamente lo antes posible, pues entendía que si esas sociedades encontraban una rápida prosperidad estarían contentas en el Bloque Occidental, y cualquier intento de revolución comunista estaría abocado al fracaso. En otras palabras, Estados Unidos quería evitar que la posguerra trajera una crisis económica como había ocurrido tras la Primera Guerra Mundial.
 
-**3§3**. Además del Plan Marshall, Estados Unidos promovió la creación de la OTAN, una alianza militar dirigida a promover una defensa común de los países del Bloque Occidental contra la URSS. A cambio de esas ayudas económicas, los países europeos tuvieron que aceptar que Estados Unidos instalara bases militares en sus territorios. Esas bases militares aún existen y de hecho han ido creciendo con el tiempo. Tanto las bases como las fuerzas militares que se encuentran en ellas pertenecen a Estados Unidos, no a la OTAN.
+3§3. Además del Plan Marshall, Estados Unidos promovió la creación de la OTAN, una alianza militar dirigida a promover una defensa común de los países del Bloque Occidental contra la URSS. A cambio de esas ayudas económicas, los países europeos tuvieron que aceptar que Estados Unidos instalara bases militares en sus territorios. Esas bases militares aún existen y de hecho han ido creciendo con el tiempo. Tanto las bases como las fuerzas militares que se encuentran en ellas pertenecen a Estados Unidos, no a la OTAN.
 
-**3§4**. Estados Unidos vivió su época de mayor prosperidad económica durante la Guerra Fría. Se convirtió en el país más rico del mundo y su población alcanzó el pleno empleo. Experimentó grandes desarrollos en ciencia y tecnología, que culminaron con la llegada de una misión tripulada a la Luna en 1969. Sus líderes se presentaron como protectores de la democracia y la libertad individual en todo el mundo.
+3§4. Estados Unidos vivió su época de mayor prosperidad económica durante la Guerra Fría. Se convirtió en el país más rico del mundo y su población alcanzó el pleno empleo. Experimentó grandes desarrollos en ciencia y tecnología, que culminaron con la llegada de una misión tripulada a la Luna en 1969. Sus líderes se presentaron como protectores de la democracia y la libertad individual en todo el mundo.
 
-**3§5**. En 1955 el presidente Harry Truman tomó la decisión de combatir contra el comunismo en todos los países del mundo. Esta política, conocida desde entonces como Doctrina Truman, hizo que Estados Unidos diera su apoyo en muchas ocasiones a dictadores derechistas o incluso fascistas, como en los casos de España, Chile, Nicaragua o XXX.
+3§5. En 1955 el presidente Harry Truman tomó la decisión de combatir contra el comunismo en todos los países del mundo. Esta política, conocida desde entonces como Doctrina Truman, hizo que Estados Unidos diera su apoyo en muchas ocasiones a dictadores derechistas o incluso fascistas, como en los casos de España, Chile, Nicaragua o XXX.
 
 ## El Bloque Oriental
 
-**4§1**. La Unión Soviética era una dictadura, así que incorporó directamente a los países que cayeron bajo su influencia. Polonia, Bielorrusia, Ucrania o Checoslovaquia se convirtieron en Repúblicas dentro de la Unión de Repúblicas Socialistas Soviéticas. Oficialmente eran países independientes que podían salir de la Unión si lo deseaban. En realidad, se trataba de un Imperio dirigido desde Moscú, y cualquier intento de independizarse o ganar autonomía era respondido con violencia.
+4§1. La Unión Soviética era una dictadura, así que incorporó directamente a los países que cayeron bajo su influencia. Polonia, Bielorrusia, Ucrania o Checoslovaquia se convirtieron en Repúblicas dentro de la Unión de Repúblicas Socialistas Soviéticas. Oficialmente eran países independientes que podían salir de la Unión si lo deseaban. En realidad, se trataba de un Imperio dirigido desde Moscú, y cualquier intento de independizarse o ganar autonomía era respondido con violencia.
 
 4§2. Para luchar contra la OTAN, la URSS desarrolló el Pacto de Varsovia, su propia alianza militar común. A partir de entonces la frontera europea entre ambos imperios se llamó Telón de Acero, una expresión que había acuñado Winston Churchill durante la Segunda Guerra Mundial.
 
