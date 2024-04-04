@@ -1,8 +1,8 @@
-$white: #fed;
+$white: #fff;
 $blue: #25f;
 $sans: "Rubik", Arial, Helvetica, Helvetica Neue, sans-serif;
 $serif: "PT Serif", Times New Roman, serif;
-$mono: "MonaspiceXe Nerd Font Mono", "Courier Prime", Courier, monospace;
+$mono: "FiraMono Nerd Font", monospace;
 
 // css
 
@@ -16,8 +16,8 @@ body {
   background: $white;
   font-family: $mono;
   color: #222;
-  font-size: 23px;
-  line-height: 1.4em;
+  font-size: 22px;
+  line-height: 1.5em;
   text-rendering: optimizeSpeed;
   margin: 0;
   padding: 0;
