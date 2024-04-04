@@ -1,8 +1,6 @@
 $white: #fff;
 $blue: #25f;
-$sans: "Rubik", Arial, Helvetica, Helvetica Neue, sans-serif;
-$serif: "PT Serif", Times New Roman, serif;
-$mono: "FiraMono Nerd Font", monospace;
+$sans: Arial, Helvetica, Helvetica Neue, sans-serif;
 
 // css
 
@@ -14,10 +12,10 @@ html {
 
 body {
   background: $white;
-  font-family: $mono;
+  font-family: $sans;
   color: #222;
-  font-size: 20px;
-  line-height: 1.45em;
+  font-size: 24px;
+  line-height: 1.25em;
   text-rendering: optimizeSpeed;
   margin: 0;
   padding: 0;
@@ -32,7 +30,8 @@ body {
 
 nav {
   padding: 16px 32px;
-  font-size: 20px;
+  font-size: 22px;
+  font-weight: bold;
 
   @media (prefers-color-scheme: dark) {
     
@@ -69,6 +68,10 @@ h1 {
   font-size: 46px;
   margin-top: 64px;
   margin-bottom: 32px;
+
+  @media (prefers-color-scheme: dark) {
+    color: orange;
+  }
 }
 
 h2 {
@@ -76,6 +79,10 @@ h2 {
   padding: 0;
   margin-top: 64px;
   margin-bottom: 32px;
+
+  @media (prefers-color-scheme: dark) {
+    color: cyan;
+  }
 }
 
 h3 {
@@ -153,13 +160,14 @@ span.number {
 
 blockquote {
   margin: 32px 32px;
+  padding-left: 16px;
+  border-left: 2px solid $white;
 
   & p {
-    font-size: 22px;
-    line-height: 1.4em;
-    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.3em;
     margin: 0;
-    max-width: 1024px;
+    max-width: 994px;
 
     @media (prefers-color-scheme: dark) {
     }
