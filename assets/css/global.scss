@@ -1,6 +1,16 @@
-$white: #fff;
-$blue: #25f;
+// colors
+$white: #fdf6e3;
+$blue: #268bd2;
+$violet: #6c71c4;
+$orange: #cb4b16;
+$green: #859900;
+
+// fonts
 $sans: Arial, Helvetica, Helvetica Neue, sans-serif;
+$serif: "Times New Roman", Times, Serif;
+
+// spaces
+$wide: 1024px;
 
 // css
 
@@ -15,13 +25,12 @@ body {
   font-family: $sans;
   color: #222;
   font-size: 24px;
-  line-height: 1.25em;
+  line-height: 1.2em;
   text-rendering: optimizeSpeed;
   margin: 0;
   padding: 0;
   hyphens: auto;
   -webkit-hyphens: auto;
-  //-webkit-font-smoothing: none;
 
   @media (prefers-color-scheme: dark) {
     background: #1a1c1e;
@@ -31,7 +40,6 @@ body {
 nav {
   padding: 16px 32px;
   font-size: 22px;
-  font-weight: bold;
 
   @media (prefers-color-scheme: dark) {
     
@@ -52,8 +60,9 @@ header {
 
 h1, h2, h3 {
   line-height: 1em;
+  font-family: $sans;
   font-weight: bold;
-  letter-spacing: 0;
+  letter-spacing: -.03em;
   margin: 32px 32px 16px 32px;
  // text-transform: uppercase;
   max-width: 1024px;
@@ -68,6 +77,7 @@ h1 {
   font-size: 46px;
   margin-top: 64px;
   margin-bottom: 32px;
+  color: $orange;
 
   @media (prefers-color-scheme: dark) {
     color: orange;
@@ -75,10 +85,11 @@ h1 {
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 32px;
   padding: 0;
   margin-top: 64px;
-  margin-bottom: 32px;
+  margin-bottom: 16px;
+  color: $orange;
 
   @media (prefers-color-scheme: dark) {
     color: cyan;
@@ -87,11 +98,14 @@ h2 {
 
 h3 {
   font-size: 24px;
-  font-weight: normal;
+  margin-top: 32px;
+  margin-bottom: 16px;
+  font-weight: bold;
+  color: $green;
 }
 
 a {
-  color: black;
+  color: $blue;
   text-decoration: underline;
   text-decoration-thickness: 2px;
 
@@ -115,9 +129,10 @@ hr {
 article {
   margin-top: 128px;
   hyphens: auto;
+  font-family: $serif;
 
   & p {
-    margin: 0 32px 32px;
+    margin: 0 32px 24px 32px;
     max-width: 1024px;
     vertical-align: middle;
   }
@@ -160,14 +175,14 @@ span.number {
 
 blockquote {
   margin: 32px 32px;
-  padding-left: 16px;
-  border-left: 2px solid $white;
+  font-family: $sans;
 
   & p {
-    font-size: 26px;
-    line-height: 1.3em;
+    font-size: 29px;
+    line-height: 1.2em;
+    color: $green;
     margin: 0;
-    max-width: 994px;
+    max-width: $wide;
 
     @media (prefers-color-scheme: dark) {
     }
