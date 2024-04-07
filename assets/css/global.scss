@@ -24,11 +24,11 @@ body {
   background: $white;
   font-family: $sans;
   color: #222;
-  font-size: 24px;
+  font-size: 27px;
   line-height: 1.2em;
   text-rendering: optimizeSpeed;
   margin: 0;
-  padding: 0;
+  padding: 0 64px;
   hyphens: auto;
   -webkit-hyphens: auto;
 
@@ -38,7 +38,7 @@ body {
 }
 
 nav {
-  padding: 16px 32px;
+  padding: 16px 0;
   font-size: 22px;
 
   @media (prefers-color-scheme: dark) {
@@ -63,7 +63,7 @@ h1, h2, h3 {
   font-family: $sans;
   font-weight: bold;
   letter-spacing: -.03em;
-  margin: 32px 32px 16px 32px;
+  margin: 32px 0 16px 0;
  // text-transform: uppercase;
   max-width: 1024px;
 
@@ -132,17 +132,17 @@ article {
   font-family: $serif;
 
   & p {
-    margin: 0 32px 24px 32px;
+    margin: 0 0 24px;
     max-width: 1024px;
     vertical-align: middle;
   }
 
   & ul, & ol {
-    margin: 0 32px 32px;
+    margin: 0 0 24px;
     max-width: 970px;
 
     & p {
-      margin: 0 0 32px;
+      margin: 0 0 24px;
     }
 
   }
@@ -163,18 +163,8 @@ article {
 
 }
 
-span.number {
-  display: inline-block;
-  width: 48px;
-  height: 48px;
-  text-align: center;
-  background: $blue;
-  color: white;
-  border-radius: 50%;
-}
-
 blockquote {
-  margin: 32px 32px;
+  margin: 32px 0;
   font-family: $sans;
 
   & p {
@@ -194,7 +184,7 @@ blockquote {
 
 table {
   width: 800px;
-  margin: 32px;
+  margin: 32px 0;
 }
 
 tr.separador {
@@ -220,11 +210,11 @@ td {
 
 picture {
   display: inline-block;
-  margin: 0 32px 32px;
+  margin: 0 32px 0;
 }
 
 figure {
-  margin: 0 12px;
+  margin: 0;
 }
 
 figcaption {
