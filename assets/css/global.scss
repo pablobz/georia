@@ -10,7 +10,7 @@ $sans: Arial, Helvetica, Helvetica Neue, sans-serif;
 $serif: "Times New Roman", Times, Serif;
 
 // spaces
-$wide: 1024px;
+$wide: 1204px;
 
 // css
 
@@ -24,11 +24,11 @@ body {
   background: $white;
   font-family: $sans;
   color: #222;
-  font-size: 25px;
+  font-size: 28px;
   line-height: 1.25em;
   text-rendering: optimizeSpeed;
   margin: 0;
-  padding: 0 64px;
+  padding: 0 32px;
   hyphens: auto;
   -webkit-hyphens: auto;
 
@@ -65,7 +65,7 @@ h1, h2, h3 {
   letter-spacing: -.03em;
   margin: 32px 0 16px 0;
  // text-transform: uppercase;
-  max-width: 1024px;
+  max-width: $wide;
 
   @media (prefers-color-scheme: dark) {
     color: #eed;
@@ -77,7 +77,7 @@ h1 {
   font-size: 46px;
   margin-top: 64px;
   margin-bottom: 32px;
-  color: $orange;
+  color: $green;
 
   @media (prefers-color-scheme: dark) {
     color: orange;
@@ -132,7 +132,7 @@ article {
 
   & p {
     margin: 0 0 24px;
-    max-width: 1024px;
+    max-width: $wide;
     vertical-align: middle;
   }
 
@@ -224,7 +224,7 @@ figcaption {
 }
 
 img {
-  max-width: 1024px;
+  max-width: $wide;
 }
 
 .right {
