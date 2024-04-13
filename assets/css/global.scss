@@ -10,7 +10,7 @@ $sans: Arial, Helvetica, Helvetica Neue, sans-serif;
 $serif: "Times New Roman", Times, Serif;
 
 // spaces
-$wide: 1204px;
+$wide: 954px;
 
 // css
 
@@ -22,10 +22,10 @@ html {
 
 body {
   background: $white;
-  font-family: $sans;
+  font-family: $serif;
   color: #222;
-  font-size: 28px;
-  line-height: 1.25em;
+  font-size: 32px;
+  line-height: 1.15em;
   text-rendering: optimizeSpeed;
   margin: 0;
   padding: 0 32px;
@@ -40,6 +40,7 @@ body {
 nav {
   padding: 16px 0;
   font-size: 22px;
+  text-align: center;
 
   @media (prefers-color-scheme: dark) {
     
@@ -60,7 +61,6 @@ header {
 
 h1, h2, h3 {
   line-height: 1em;
-  font-family: $sans;
   font-weight: bold;
   letter-spacing: -.03em;
   margin: 32px 0 16px 0;
@@ -74,10 +74,9 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 46px;
+  font-size: 74px;
   margin-top: 64px;
   margin-bottom: 32px;
-  color: $green;
 
   @media (prefers-color-scheme: dark) {
     color: orange;
@@ -85,11 +84,10 @@ h1 {
 }
 
 h2 {
-  font-size: 32px;
+  font-size: 52px;
   padding: 0;
   margin-top: 64px;
   margin-bottom: 16px;
-  color: $orange;
 
   @media (prefers-color-scheme: dark) {
     color: cyan;
@@ -97,11 +95,10 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 44px;
   margin-top: 32px;
   margin-bottom: 16px;
   font-weight: bold;
-  color: $green;
 }
 
 a {
@@ -127,18 +124,17 @@ hr {
 }
 
 article {
-  margin-top: 128px;
   hyphens: auto;
+  max-width: $wide;
+  margin: auto;
 
   & p {
     margin: 0 0 24px;
-    max-width: $wide;
     vertical-align: middle;
   }
 
   & ul, & ol {
     margin: 0 0 24px;
-    max-width: 970px;
 
     & p {
       margin: 0 0 24px;
@@ -164,12 +160,10 @@ article {
 
 blockquote {
   margin: 32px 0;
-  font-family: $sans;
 
   & p {
-    font-size: 29px;
-    line-height: 1.2em;
-    color: $green;
+    font-size: 32px;
+    line-height: 1.15em;
     margin: 0;
     max-width: $wide;
 
