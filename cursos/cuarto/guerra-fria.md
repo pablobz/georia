@@ -10,12 +10,15 @@ ACTIVIDAD
 De cada bloque, elabora un cuadro que incluya:
 
 1. País que lo lidera.
-2. Ideología.
+2. Ideología. Explicación.
 3. Países principales que lo integran.
-4. Una ventaja.
-5. Un inconveniente.
+4. Mapa.
+5. Una ventaja.
+6. Un inconveniente.
+7. Un personaje importante. Por qué.
+8. Una guerra en la que participó. Qué pretendía. Qué consiguió.
 
-En cuál de los dos bloques te habría gustado vivir y por qué.
+En cuál de los dos bloques te habría gustado vivir y por qué. Da al menos tres razones y explícalas bien.
 
 ---
 
