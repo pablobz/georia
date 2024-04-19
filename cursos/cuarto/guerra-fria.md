@@ -5,6 +5,20 @@ title: La Guerra Fría
 curso: eso4
 ---
 
+ACTIVIDAD
+
+De cada bloque, elabora un cuadro que incluya:
+
+1. País que lo lidera.
+2. Ideología.
+3. Países principales que lo integran.
+4. Una ventaja.
+5. Un inconveniente.
+
+En cuál de los dos bloques te habría gustado vivir y por qué.
+
+---
+
 Se llama guerra fría a una época en la que dos países se declaran enemigos el uno del otro y se preparan continuamente para la guerra; sin embargo, esa guerra nunca llega.
 
 Ambos países compiten de forma continua y de forma total, es decir, tratan de ser mejores que su rival en todos los ámbitos: no sólo en la economía y en la guerra, sino también la investigación científica, en las artes, en el deporte, etcétera. 

@@ -10,7 +10,7 @@ $sans: Arial, Helvetica, Helvetica Neue, sans-serif;
 $serif: "Times New Roman", Times, Serif;
 
 // spaces
-$wide: 954px;
+$wide: 1160px;
 
 // css
 
@@ -22,10 +22,10 @@ html {
 
 body {
   background: $white;
-  font-family: $serif;
+  font-family: $sans;
   color: #222;
-  font-size: 32px;
-  line-height: 1.15em;
+  font-size: 28px;
+  line-height: 1.2em;
   text-rendering: optimizeSpeed;
   margin: 0;
   padding: 0 32px;
@@ -40,7 +40,7 @@ body {
 nav {
   padding: 16px 0;
   font-size: 22px;
-  text-align: center;
+  text-align: left;
 
   @media (prefers-color-scheme: dark) {
     
@@ -102,7 +102,7 @@ h3 {
 }
 
 a {
-  color: $blue;
+  color: black;
   text-decoration: underline;
   text-decoration-thickness: 2px;
 
@@ -118,7 +118,7 @@ hr {
 }
 
 .horn {
-  width: 36px;
+  width: 64px;
   margin: 0 8px 0 0;
   height: auto;
 }
@@ -126,7 +126,7 @@ hr {
 article {
   hyphens: auto;
   max-width: $wide;
-  margin: auto;
+  margin: 0;
 
   & p {
     margin: 0 0 24px;
