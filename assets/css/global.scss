@@ -4,13 +4,14 @@ $blue: #268bd2;
 $violet: #6c71c4;
 $orange: #cb4b16;
 $green: #859900;
+$red: #f30;
 
 // fonts
 $sans: Arial, Helvetica, Helvetica Neue, sans-serif;
-$serif: "Times New Roman", Times, Serif;
+$serif: Georgia, "Times New Roman", Times, Serif;
 
 // spaces
-$wide: 1060px;
+$wide: 1120px;
 
 // css
 
@@ -24,8 +25,8 @@ body {
   background: $white;
   font-family: $sans;
   color: #222;
-  font-size: 26px;
-  line-height: 1.3em;
+  font-size: 28px;
+  line-height: 1.2em;
   text-rendering: optimizeSpeed;
   margin: 0;
   padding: 0 32px;
@@ -79,7 +80,7 @@ h1 {
   margin-bottom: 32px;
 
   @media (prefers-color-scheme: dark) {
-    color: orange;
+    color: $white;
   }
 }
 
@@ -90,7 +91,7 @@ h2 {
   margin-bottom: 16px;
 
   @media (prefers-color-scheme: dark) {
-    color: cyan;
+    color: $white;
   }
 }
 
@@ -160,13 +161,12 @@ article {
 
 blockquote {
   margin: 32px 0;
-  font-family: $serif;
 
   & p {
-    font-size: 32px;
-    line-height: 1.15em;
+    line-height: 1.2em;
     margin: 0;
     max-width: $wide;
+    font-weight: bold;
 
     @media (prefers-color-scheme: dark) {
     }
@@ -204,7 +204,7 @@ td {
 
 picture {
   display: inline-block;
-  margin: 0;
+  margin: 0 0 32px;
 }
 
 figure {
