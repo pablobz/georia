@@ -25,13 +25,14 @@ body {
   background: $white;
   font-family: $sans;
   color: #222;
-  font-size: 28px;
+  font-size: 24px;
   line-height: 1.2em;
   text-rendering: optimizeSpeed;
   margin: 0;
   padding: 0 32px;
   hyphens: auto;
   -webkit-hyphens: auto;
+  -webkit-font-smoothing: none;
 
   @media (prefers-color-scheme: dark) {
     background: #1a1c1e;
@@ -85,7 +86,7 @@ h1 {
 }
 
 h2 {
-  font-size: 52px;
+  font-size: 42px;
   padding: 0;
   margin-top: 64px;
   margin-bottom: 16px;
@@ -96,7 +97,7 @@ h2 {
 }
 
 h3 {
-  font-size: 44px;
+  font-size: 34px;
   margin-top: 32px;
   margin-bottom: 16px;
   font-weight: bold;
