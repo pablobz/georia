@@ -4,11 +4,10 @@ html {
 }
 
 body {
-  font-family: Helvetica, Arial, sans;
+  font-family: "JetBrains Nerd Font", Helvetica, Arial, sans;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  margin: 0;
-  padding: 0 20px 80px;
+  margin: 0 100px;
   hyphens: auto;
   -webkit-hyphens: auto;
 
@@ -187,8 +186,8 @@ article li {
 article {
   margin: 0 5%;
   hyphens: auto;
-  font-size: 24px;
-  line-height: 33px;
+  font-size: 22px;
+  line-height: 35px;
 }
 
 main p.eslogan {

@@ -1,17 +1,17 @@
 // colors
 $white: #fff;
-$blue: #268bd2;
+$blue: #266bd2;
 $violet: #6c71c4;
-$orange: #cb4b16;
+$orange: #BC4A3C;
 $green: #859900;
 $red: #f30;
 
 // fonts
-$sans: Arial, Helvetica, Helvetica Neue, sans-serif;
-$serif: Georgia, "Times New Roman", Times, Serif;
+$sans: "Proxima Nova", Arial, monospace;
+$serif: "Minion Pro", Georgia, "Times New Roman", Times, Serif;
 
 // spaces
-$wide: 1120px;
+$wide: 920px;
 
 // css
 
@@ -24,15 +24,14 @@ html {
 body {
   background: $white;
   font-family: $sans;
-  color: #222;
-  font-size: 24px;
-  line-height: 1.2em;
+  color: #333;
+  font-size: 22px;
+  line-height: 1.25em;
   text-rendering: optimizeSpeed;
   margin: 0;
-  padding: 0 32px;
+  padding: 0px 20px;
   hyphens: auto;
   -webkit-hyphens: auto;
-  -webkit-font-smoothing: none;
 
   @media (prefers-color-scheme: dark) {
     background: #1a1c1e;
@@ -41,14 +40,15 @@ body {
 
 nav {
   padding: 16px 0;
-  font-size: 22px;
   text-align: left;
+  font-size: 18px;
 
   @media (prefers-color-scheme: dark) {
-    
+    color: #999; 
   }
 
   & a {
+    text-decoration: none;
   }
 }
 
@@ -62,12 +62,13 @@ header {
 }
 
 h1, h2, h3 {
-  line-height: 1em;
-  font-weight: bold;
-  letter-spacing: -.03em;
+  line-height: 1.05em;
+  font-weight: normal;
   margin: 32px 0 16px 0;
  // text-transform: uppercase;
   max-width: $wide;
+  font-family: $serif;
+  font-style: italic;
 
   @media (prefers-color-scheme: dark) {
     color: #eed;
@@ -76,9 +77,10 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 74px;
+  font-size: 62px;
   margin-top: 64px;
   margin-bottom: 32px;
+  font-style: italic;
 
   @media (prefers-color-scheme: dark) {
     color: $white;
@@ -86,9 +88,9 @@ h1 {
 }
 
 h2 {
-  font-size: 42px;
+  font-size: 32px;
   padding: 0;
-  margin-top: 64px;
+  margin-top: 48px;
   margin-bottom: 16px;
 
   @media (prefers-color-scheme: dark) {
@@ -97,20 +99,22 @@ h2 {
 }
 
 h3 {
-  font-size: 34px;
-  margin-top: 32px;
+  font-size: 27px;
+  margin-top: 48px;
   margin-bottom: 16px;
   font-weight: bold;
 }
 
 a {
-  color: black;
+  color: $blue;
   text-decoration: underline;
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: 1px;
 
   @media (prefers-color-scheme: dark) {
-    color: #eed;
+    color: lighten($blue, 10%);
   }
+
+  
 }
 
 hr {
@@ -119,16 +123,10 @@ hr {
   width: 1000px;
 }
 
-.horn {
-  width: 64px;
-  margin: 0 8px 0 0;
-  height: auto;
-}
-
 article {
   hyphens: auto;
   max-width: $wide;
-  margin: 0;
+  margin: 40px 0 0 0;
 
   & p {
     margin: 0 0 24px;
@@ -145,7 +143,7 @@ article {
   }
 
   @media (prefers-color-scheme: dark) {
-    color: #ddc;
+    color: #ddd;
   }
 
   & strong {
@@ -162,9 +160,9 @@ article {
 
 blockquote {
   margin: 32px 0;
+  padding: 0 32px;
 
   & p {
-    line-height: 1.2em;
     margin: 0;
     max-width: $wide;
     font-weight: bold;
@@ -195,11 +193,17 @@ th {
 
 td {
   padding: 0 30px 6px 0;
+  vertical-align: top;
+
   &:nth-child(1) {
 
   }
   &:nth-child(3) {
     font-size: 18px;
+  }
+  
+  & img {
+    max-width: 96px;
   }
 }
 

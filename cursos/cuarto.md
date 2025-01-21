@@ -6,6 +6,7 @@ etapa: ESO
 codigo: eso4
 orden: 40
 layout: syllabus
+cover: cover-eso1.png
 ---
 
 <picture>

@@ -4,15 +4,14 @@ title: Georia
 ---
 
 <article>
-  
-  <h1>Georia</h1>
 
-  <p>Georia es un sitio web para la enseñanza de las materias de <em>Geografía</em>, <em>Historia</em> e <em>Historia del Arte</em> en la Educación Secundaria Obligatoria y el Bachillerato. El objetivo es es desarrollar, recopilar y utilizar mejores <a>herramientas para aprender</a>.</p>
+  <p><a>Georia</a> es un sitio web para la enseñanza de las materias de <em>Geografía</em>, <em>Historia</em> e <em>Historia del Arte</em> en la Educación Secundaria Obligatoria y el Bachillerato. El objetivo es es desarrollar, recopilar y utilizar mejores <a>herramientas para aprender</a>.</p>
 
   <h2>Cursos</h2>
 
   <table>
     <tr>
+      <th>Portada</th>
       <th>Nivel</th>
       <th>Materia</th>
       <th>Etapa</th>
@@ -21,19 +20,23 @@ title: Georia
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     {%- for curso in collections.curso | getOrdered -%}
       <tr>
         <td>
-          ᮰ <a href="{{ curso.url }}">{{ curso.data.title }}</a>
+          <img src="../../assets/img/{{ curso.data.cover }}">
+        </td>
+
+        <td>
+          <a href="{{ curso.url }}">{{ curso.data.title }}</a> de {{ curso.data.etapa }}<br>
+          <small>{{ curso.data.materia }}</small>
         </td>
         <td>
-          {{ curso.data.materia }}
         </td>
         <td>
-          {{ curso.data.etapa }}
         </td>
-      </tr>
+              </tr>
     {%- endfor -%}
   </table>
 
