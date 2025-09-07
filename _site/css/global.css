@@ -1,29 +1,12 @@
-// colors
-$white: #fff;
-$blue: #266bd2;
-$violet: #6c71c4;
-$orange: #BC4A3C;
-$green: #859900;
-$red: #f30;
-
-// fonts
-$sans: Arial, monospace;
-$serif: Georgia, "Times New Roman", Times, Serif;
-
-// spaces
-$wide: 920px;
-
-// css
-
 html {
   min-height: 100vh;
-  scrollbar-color: $blue;
+  scrollbar-color: #266bd2;
   scrollbar-width: 16px;
 }
 
 body {
-  background: $white;
-  font-family: $sans;
+  background: #fff;
+  font-family: Arial, monospace;
   color: #333;
   font-size: 22px;
   line-height: 1.25em;
@@ -33,8 +16,9 @@ body {
   hyphens: auto;
   -webkit-hyphens: auto;
   -webkit-font-smoothing: antialiased;
-
-  @media (prefers-color-scheme: dark) {
+}
+@media (prefers-color-scheme: dark) {
+  body {
     background: #1a1c1e;
   }
 }
@@ -43,38 +27,36 @@ nav {
   padding: 16px 0;
   text-align: left;
   font-size: 20px;
-
-  @media (prefers-color-scheme: dark) {
-    color: #999; 
+}
+@media (prefers-color-scheme: dark) {
+  nav {
+    color: #999;
   }
-
-  & a {
-    text-decoration: none;
-  }
+}
+nav a {
+  text-decoration: none;
 }
 
 header {
   margin: 0 40px;
-
-  & a {
-    display: inline-block;
-    margin-right: 3px;
-  }
+}
+header a {
+  display: inline-block;
+  margin-right: 3px;
 }
 
 h1, h2, h3 {
   line-height: 1.05em;
   font-weight: normal;
   margin: 32px 0 16px 0;
- // text-transform: uppercase;
-  max-width: $wide;
-  font-family: $serif;
+  max-width: 920px;
+  font-family: Georgia, "Times New Roman", Times, Serif;
   font-style: italic;
-
-  @media (prefers-color-scheme: dark) {
+}
+@media (prefers-color-scheme: dark) {
+  h1, h2, h3 {
     color: #eed;
   }
-
 }
 
 h1 {
@@ -82,9 +64,10 @@ h1 {
   margin-top: 64px;
   margin-bottom: 32px;
   font-style: italic;
-
-  @media (prefers-color-scheme: dark) {
-    color: $white;
+}
+@media (prefers-color-scheme: dark) {
+  h1 {
+    color: #fff;
   }
 }
 
@@ -93,9 +76,10 @@ h2 {
   padding: 0;
   margin-top: 48px;
   margin-bottom: 16px;
-
-  @media (prefers-color-scheme: dark) {
-    color: $white;
+}
+@media (prefers-color-scheme: dark) {
+  h2 {
+    color: #fff;
   }
 }
 
@@ -107,15 +91,14 @@ h3 {
 }
 
 a {
-  color: $blue;
+  color: #266bd2;
   text-decoration: underline;
   text-decoration-thickness: 1px;
-
-  @media (prefers-color-scheme: dark) {
-    color: lighten($blue, 10%);
+}
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #4c87df;
   }
-
-  
 }
 
 hr {
@@ -126,56 +109,42 @@ hr {
 
 article {
   hyphens: auto;
-  max-width: $wide;
+  max-width: 920px;
   margin: 40px 0 0 0;
-
-  & p {
-    margin: 0 0 24px;
-    vertical-align: middle;
-  }
-
-  & ul, & ol {
-    margin: 0 0 24px;
-
-    & p {
-      margin: 0 0 24px;
-    }
-
-  }
-
-  @media (prefers-color-scheme: dark) {
+}
+article p {
+  margin: 0 0 24px;
+  vertical-align: middle;
+}
+article ul, article ol {
+  margin: 0 0 24px;
+}
+article ul p, article ol p {
+  margin: 0 0 24px;
+}
+@media (prefers-color-scheme: dark) {
+  article {
     color: #ddd;
   }
-
-  & strong {
-    color: #000;
-
-    @media (prefers-color-scheme: dark) {
-      color: #ddc;
-    }
+}
+article strong {
+  color: #000;
+}
+@media (prefers-color-scheme: dark) {
+  article strong {
+    color: #ddc;
   }
-
-
-
 }
 
 blockquote {
   margin: 32px 0;
   padding: 0 32px;
-
-  & p {
-    margin: 0;
-    max-width: $wide;
-    font-weight: bold;
-
-    @media (prefers-color-scheme: dark) {
-    }
-  
-  }
-
-
 }
-
+blockquote p {
+  margin: 0;
+  max-width: 920px;
+  font-weight: bold;
+}
 table {
   width: 800px;
   margin: 32px 0;
@@ -195,17 +164,12 @@ th {
 td {
   padding: 0 30px 6px 0;
   vertical-align: top;
-
-  &:nth-child(1) {
-
-  }
-  &:nth-child(3) {
-    font-size: 18px;
-  }
-  
-  & img {
-    max-width: 96px;
-  }
+}
+td:nth-child(3) {
+  font-size: 18px;
+}
+td img {
+  max-width: 96px;
 }
 
 picture {
@@ -225,9 +189,11 @@ figcaption {
 }
 
 img {
-  max-width: $wide;
+  max-width: 920px;
 }
 
 .right {
   text-align: right;
 }
+
+/*# sourceMappingURL=global.css.map */
