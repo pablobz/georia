@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/assets/css/global.css">
+  </head>
+  <body>
+
+  <nav>
+
+    {% set unidadDoc = null %}
+
+    {% for c in collections.unidad %}
+      {% if c.data.unidad == unidad.codigo %}
+        {% set unidadDoc = c %}
+      {% endif %}
+    {% endfor %}
+
+    {% if unidadDoc %}
+    <a href="{{ unidadDoc.url }}">{{ unidadDoc.data.title }}</a><br>
+    {% endif %}
+
+    &#8627; {{ title }}
+    </nav>
+
+
+    <article>
+      <main>
+        {{ content | safe }}
+      </main>
+    </article>
+
+  </body>

@@ -3,59 +3,8 @@ layout: layout
 title: Georia
 ---
 
-<article>
+<p><a>Georia</a> es un sitio web para la enseñanza de las materias de <em>Geografía</em>, <em>Historia</em> e <em>Historia del Arte</em> en la Educación Secundaria Obligatoria y el Bachillerato. El objetivo es desarrollar, recopilar y utilizar mejores <a>herramientas para aprender</a>.</p>
 
-  <p><a>Georia</a> es un sitio web para la enseñanza de las materias de <em>Geografía</em>, <em>Historia</em> e <em>Historia del Arte</em> en la Educación Secundaria Obligatoria y el Bachillerato. El objetivo es es desarrollar, recopilar y utilizar mejores <a>herramientas para aprender</a>.</p>
-
-  <h2>Cursos</h2>
-
-  <table>
-    <tr>
-      <th>Portada</th>
-      <th>Nivel</th>
-      <th>Materia</th>
-      <th>Etapa</th>
-    </tr>
-    <tr class="separador" colspan="3">
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    {%- for curso in collections.curso | getOrdered -%}
-      <tr>
-        <td>
-          <img src="../../assets/img/{{ curso.data.cover }}">
-        </td>
-
-        <td>
-          <a href="{{ curso.url }}">{{ curso.data.title }}</a> de {{ curso.data.etapa }}<br>
-          <small>{{ curso.data.materia }}</small>
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-              </tr>
-    {%- endfor -%}
-  </table>
-
-
-  <h2>Novedades</h2>
-  <table>
-    <tr>
-      <th>Título</th>
-    </tr>
-    <tr class="separador">
-      <td></td>
-    </tr>
-  {%- for post in collections.post -%}
-    <tr>
-      <td>
-        <a href="{{post.url}}">{{ post.data.title }}</a>
-      </td>
-    </tr>
-  {%- endfor -%}
-</table>
-
-</article>
+{%- for curso in collections.curso | getOrdered -%}
+<a href="{{ curso.url }}">{{ curso.data.title }}</a> de {{ curso.data.etapa }}<br><small>{{ curso.data.materia }}</small><br><br>
+{%- endfor -%}

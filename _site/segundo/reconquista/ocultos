@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ocultos en las montañas</title>
+    <link rel="stylesheet" href="/assets/css/global.css">
+  </head>
+  <body>
+
+  <nav>
+
+    
+
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+
+    
+    <a href="/cursos/segundo/reconquista/">¿Reconquista?</a><br>
+    
+
+    &#8627; Ocultos en las montañas
+    </nav>
+
+
+    <article>
+      <main>
+        <p>Cuentan las crónicas que Don Pelayo, un noble visigodo, se opuso a la conquista musulmana. Huyó al Norte, al Cantábrico, y en Covadonga venció a los musulmanes en una reyerta. Los astures y los cántabros, pueblos que habitaban la zona, lo nombraron, como premio, primer rey de Asturias.</p>
+<details class="question">
+  <summary>¿Por qué nombraron rey a Pelayo?</summary>
+  Por vencer a los musulmanes en la reyerta de Covadonga.
+</details>
+<details class="media">
+  <summary>El Santuario de Covadonga</summary>
+  <figure>
+    <img src="/assets/img/covadonga-dibujo.png">
+    <figcaption>Santuario de Covadonga</figcaption>
+  </figure>
+</details>
+<p>El reino asturiano, con capital en Oviedo, sobrevivió gracias a que el emirato de al-Ándalus abandonó esta zona, ocupado como estaba en luchas internas entre aspirantes al poder, árabes y beréberes por el reparto de las tierras conquistadas.
+Alfonso III conquistó el valle del Duero, lo repobló para poder conservarlo y trasladó la capital a León.</p>
+<figure>
+  <img src="/assets/img/mapa-asturias.jpg">
+  <figcaption>Santuario de Covadonga</figcaption>
+</figure>
+<p>En los Pirineos sucedió algo parecido: algunos cristianos se refugiaron allí y, en este caso, encontraron la protección de Carlomagno, que fortaleció la zona para evitar un nuevo avance de los musulmanes por las tierras de Francia. A esta frontera se la llamó Marca Hispánica.</p>
+<p>Con el tiempo, los condados carolingios ganaron autonomía, y cuando el imperio de Carlomagno se deshizo, se fueron convirtiendo en reinos independientes.
+Así nacieron el reino de Navarra, con capital en Pamplona; el de Aragón, con capital en Jaca; y los Condados catalanes, con capital en Barcelona.</p>
+
+      </main>
+    </article>
+
+  </body>
