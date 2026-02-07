@@ -6,8 +6,18 @@ $orange: #BC4A3C;
 $green: #859900;
 $red: #f30;
 
-// fonts
-$sans: "Bricolage Grotesque", Helvetica, Arial, monospace;
+//fonts
+@font-face {
+  font-family: sansFont;
+  src: url(../fonts/sans-regular.woff2);
+  font-weight: regular;
+}
+@font-face {
+  font-family: sansFont;
+  src: url(../fonts/sans-bold.woff2);
+  font-weight: bold;
+
+}$sans: sansFont, Helvetica, Arial, monospace;
 $serif: "Times New Roman", Times, Serif;
 
 // spaces
@@ -101,7 +111,6 @@ details {
   margin: 2% 0;
   font-size: 4vmin;
   cursor: pointer;
-  color: grey;
 
   & summary::after {
     margin-left: 12px;
@@ -114,21 +123,21 @@ details {
   &.question summary, 
   &.question summary::marker, 
   &.question summary::after  { 
-    color: lightcoral;
+    color: tomato;
     vertical-align: middle;
   }
 
   &.think summary, 
   &.think summary::marker, 
   &.think summary::after  { 
-    color: coral;
+    color: tomato;
     vertical-align: middle;
   }
 
   &.media summary, 
   &.media summary::marker, 
   &.media summary::after  { 
-    color: teal;
+    color: olivedrab;
     vertical-align: middle;
   }
 
