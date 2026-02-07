@@ -12,7 +12,7 @@
     {% set unidadDoc = null %}
 
     {% for c in collections.unidad %}
-      {% if c.data.unidad == unidad.codigo %}
+      {% if c.data.codigo == unidad %}
         {% set unidadDoc = c %}
       {% endif %}
     {% endfor %}

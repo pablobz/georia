@@ -4,7 +4,6 @@ tags: capitulo
 title: Jabal Tariq
 curso: eso2
 unidad: reconquista
-permalink: segundo/reconquista/jabal-tariq
 order: 10
 ---
 

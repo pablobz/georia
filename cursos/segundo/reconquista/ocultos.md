@@ -4,7 +4,6 @@ tags: capitulo
 title: Ocultos en las montañas
 curso: eso2
 unidad: reconquista
-permalink: cursos/segundo/reconquista/ocultos
 order: 20
 ---
 
