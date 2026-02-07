@@ -33,11 +33,12 @@
       </main>
     </article>
 
+    <ol class="index">
     {%- for capitulo in collections.capitulo | sort(attribute="data.order") -%}
       {%- if capitulo.data.unidad == codigo -%}
-      <a href="{{ capitulo.url }}">{{ capitulo.data.title }}</a><br>
+      <li><a href="{{ capitulo.url }}">{{ capitulo.data.title }}</a></li>
       {%- endif -%}
     {%- endfor -%}
-
+  </ol>
 
   </body>

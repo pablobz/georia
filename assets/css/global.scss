@@ -16,8 +16,9 @@ $red: #f30;
   font-family: sansFont;
   src: url(../fonts/sans-bold.woff2);
   font-weight: bold;
+}
 
-}$sans: sansFont, Helvetica, Arial, monospace;
+$sans: sansFont, Helvetica, Arial, monospace;
 $serif: "Times New Roman", Times, Serif;
 
 // spaces
@@ -32,15 +33,17 @@ html {
 }
 
 body {
-  background: $white;
+  margin: clamp(1rem, 4vw, 4rem);
+  padding: 0;
+
+  background: white;
   font-family: $sans;
-  color: #000;
-  font-size: 5vmin;
+  font-size: clamp(1.75rem, 5vw, 3rem);
   font-weight: 500;
   line-height: 1.2;
+  color: #000;
+
   text-rendering: optimizeSpeed;
-  margin: 4rem;
-  padding: 0;
   hyphens: auto;
   -webkit-hyphens: auto;
   -webkit-font-smoothing: antialiased;
@@ -109,7 +112,7 @@ p {
 
 details {
   margin: 2% 0;
-  font-size: 4vmin;
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
   cursor: pointer;
 
   & summary::after {
@@ -165,6 +168,11 @@ article {
 
 ul, ol, p {
   margin: 0 0 3%;
+}
+
+ol.index li::marker {
+  font-size: 3vmin;
+  color: tomato;
 }
 
 blockquote {
