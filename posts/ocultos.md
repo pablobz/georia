@@ -4,20 +4,20 @@ tags: capitulo
 title: Ocultos en las montañas
 curso: eso2
 unidad: reconquista
-permalink: segundo/reconquista/ocultos
+permalink: cursos/segundo/reconquista/ocultos
 order: 20
 ---
 
-Cuentan las crónicas que Don Pelayo, un noble visigodo, se opuso a la conquista musulmana. Huyó al Norte, al Cantábrico, y en Covadonga venció a los musulmanes en una reyerta. Los astures y los cántabros, pueblos que habitaban la zona, lo nombraron, como premio, primer rey de Asturias.
+Cuentan las crónicas que Don Pelayo, un noble visigodo, se opuso a la conquista musulmana. Huyó al Norte, a la Cordillera Cantábrica, y en Covadonga logró vencer a los musulmanes. Los pueblos que habitaban la zona, astures y cántabros, lo nombraron, poco después, rey de Asturias.
 
 <details class="question">
-  <summary>¿Por qué nombraron rey a Pelayo?</summary>
-  Porque venció a los musulmanes en Covadonga.
+  <summary>¿Por qué crees que nombraron rey a Pelayo?</summary>
+  Porque venció a los musulmanes en Covadonga, cosa que nadie había hecho hasta entonces. Y porque Pelayo era un importante visigodo, lo que daba al nuevo reino una importancia mayor.
 </details>
 
 <details class="think">
-  <summary>¿Qué relación tendría con la geografía física?</summary>
-  Porque venció a los musulmanes en Covadonga.
+  <summary>¿Qué importancia tuvieron las montañas?</summary>
+  Mucha. Don Pelayo pudo hacerse fuerte allí porque era difícil acceder a la zona. Astures y cántabros la conocían bien y siempre se habían defendido ante todos los invasores.
 </details>
 
 <details class="media">
@@ -30,8 +30,17 @@ Cuentan las crónicas que Don Pelayo, un noble visigodo, se opuso a la conquista
 
 ---
 
-El reino asturiano, con capital en Oviedo, sobrevivió gracias a que el emirato de al-Ándalus abandonó esta zona, ocupado como estaba en luchas internas entre aspirantes al poder, árabes y beréberes por el reparto de las tierras conquistadas. 
-Alfonso III conquistó el valle del Duero, lo repobló para poder conservarlo y trasladó la capital a León.
+El reino asturiano, con capital en Oviedo, sobrevivió gracias a que el emirato de al-Ándalus, ocupado en luchas internas entre aspirantes al poder, abandonó esta zona y no insistió en conquistarla. Tiempo después, Alfonso III aprovechó otra etapa de crisis en al-Ándalus y conquistó el valle del Duero, lo repobló y trasladó la capital a León.
+
+<details class="question">
+  <summary>¿Por qué sobrevivió el reino asturiano?</summary>
+  Porque al-Ándalus, en su primera época, sufrió muchas luchas internas y no presentó un frente unido. 
+</details>
+
+<details class="question">
+  <summary>¿Por qué crees que Alfonso III repobló el valle del Duero?</summary>
+  Porque el valle del Duero era una zona fértil que podía dar al reino grandes riquezas. Pero para eso necesitaba pobladores que trabajaran y defendieran la tierra.
+</details>
 
 <details class="media">
   <summary>Mapa del reino de Asturias</summary>
@@ -43,7 +52,7 @@ Alfonso III conquistó el valle del Duero, lo repobló para poder conservarlo y 
 
 ---
 
-En los Pirineos sucedió algo parecido: algunos cristianos se refugiaron allí y, en este caso, encontraron la protección de Carlomagno, que fortaleció la zona para evitar un nuevo avance de los musulmanes por las tierras de Francia. A esta frontera se la llamó Marca Hispánica.
+En los Pirineos sucedió algo parecido. Algunos cristianos se refugiaron allí y, en este caso, encontraron la protección de Carlomagno, que fortaleció la zona para evitar un nuevo avance de los musulmanes por las tierras de Francia. A esta frontera se la llamó Marca Hispánica.
 
 ---
 
