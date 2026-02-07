@@ -32,13 +32,13 @@ Cuentan las crónicas que Don Pelayo, un noble visigodo, se opuso a la conquista
 El reino asturiano, con capital en Oviedo, sobrevivió gracias a que el emirato de al-Ándalus, ocupado en luchas internas entre aspirantes al poder, abandonó esta zona y no insistió en conquistarla. Tiempo después, Alfonso III aprovechó otra etapa de crisis en al-Ándalus y conquistó el valle del Duero, lo repobló y trasladó la capital a León.
 
 <details class="question">
-  <summary>¿Por qué sobrevivió el reino asturiano?</summary>
-  Porque al-Ándalus, en su primera época, sufrió muchas luchas internas y no presentó un frente unido. 
+  <summary>¿Cómo sobrevivió el reino asturiano?</summary>
+  Al-Ándalus, en su primera época, sufrió muchas luchas internas y no presentó un frente unido. 
 </details>
 
 <details class="question">
-  <summary>¿Por qué crees que Alfonso III repobló el valle del Duero?</summary>
-  Porque el valle del Duero era una zona fértil que podía dar al reino grandes riquezas. Pero para eso necesitaba pobladores que trabajaran y defendieran la tierra.
+  <summary>¿Para qué crees que Alfonso III repobló el valle del Duero?</summary>
+  El valle del Duero era una zona fértil que podía dar al reino grandes riquezas. Pero para eso necesitaba pobladores que trabajaran y defendieran la tierra.
 </details>
 
 <details class="media">
@@ -51,14 +51,45 @@ El reino asturiano, con capital en Oviedo, sobrevivió gracias a que el emirato 
 
 ---
 
-En los Pirineos sucedió algo parecido. Algunos cristianos se refugiaron allí y, en este caso, encontraron la protección de Carlomagno, que fortaleció la zona para evitar un nuevo avance de los musulmanes por las tierras de Francia. A esta frontera se la llamó Marca Hispánica.
+En los Pirineos sucedió algo parecido. Algunos cristianos se refugiaron allí y, en este caso, encontraron la protección de Carlomagno, que fortaleció la zona para evitar que los musulmanes se lanzaran a la conquista de Francia. A esta frontera la llamó Marca Hispánica.
+
+<details class="media">
+  <summary>Mapa de la Marca Hispánica</summary>
+  <figure>
+    <img src="/assets/img/mapa-asturias.jpg">
+  </figure>
+</details>
 
 ---
 
-Con el tiempo, los condados carolingios ganaron autonomía, y cuando el imperio de Carlomagno se deshizo, se fueron convirtiendo en reinos independientes. 
+Con el tiempo, los condados carolingios ganaron autonomía, y cuando el Imperio de Carlomagno se deshizo, se fueron independizando. Así nacieron: 
 
-Así nacieron el reino de Navarra, con capital en Pamplona; el de Aragón, con capital en Jaca; y los Condados catalanes, con capital en Barcelona.
++ el reino de Navarra, con capital en Pamplona; 
++ el reino de Aragón, con capital en Jaca; 
++ y los condados catalanes, cuya ciudad más importante era Barcelona.
 
+<details class="question">
+  <summary>¿Por qué no se integraron en Al-Ándalus los condados carolingios tras la muerte de Carlomagno?</summary>
+  Porque eran sociedades cristianas, y en Al-Ándalus la religión dominante era el islam.
+</details>
 
+<details class="media">
+  <summary>Mapa de la los reinos cristianos pirenáicos</summary>
+  <figure>
+    <img src="/assets/img/mapa-asturias.jpg">
+  </figure>
+</details>
 
+---
 
+## Tareas para el cuaderno
+
+<aside>
+
+**Sabio cortesano** » Escribe una crónica de la batalla de Covadonga desde el punto de vista del bando que prefieras (Asturias o el Emirato de Córdoba).
+
+**Cartógrafo del rey** » Imprime un mapa mudo de la península ibérica y superpón las fronteras del Emirato de Córdoba, la Marca Hispánica y el reino de Asturias en el siglo IX.
+
+**Trovador admirado** » Escribe un breve cuento ambientado en uno de los primeros reinos cristianos. Haz que un personaje describa la situación y exponga lo que espera del futuro.
+
+</aside>

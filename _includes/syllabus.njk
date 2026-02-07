@@ -8,14 +8,13 @@
   <body>
 
   <nav>
-    <a class="linkhome" href="/">&#9711;</a><br>
-      <a href="">Cuarto</a><br> 
-      <a href="">Antiguo Régimen</a>
-    </nav>
+    <a class="linkhome" href="/">Georia</a><br>
+    &#8627; {{ title }}
+  </nav>
 
 <br><br>
 
-{%- for unidad in collections.unidad | sort(attribute="data.order") -%}
+{%- for unidad in collections.unidad | sort(attribute="data.orden") -%}
   {%- if unidad.data.curso == codigo -%}
   <a href="{{ unidad.url }}">{{ unidad.data.title }}</a><br>
   {%- endif -%}

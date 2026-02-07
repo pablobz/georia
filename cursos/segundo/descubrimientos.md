@@ -3,7 +3,7 @@ layout: lesson
 tags: unidad
 title: El giro colombino
 curso: eso2
-order: 77
+orden: 70
 ---
 
 ## La escena representa, según una interpretación muy personal del pintor, la primera expedición a las Indias de Cristóbal Colón (1451/1456?-Valladolid, 1506), y su llegada a Guanahaní el 12 de octubre de 1492, bautizando a esta tierra con el nombre de San Salvador. 
