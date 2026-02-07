@@ -36,7 +36,8 @@ body {
   -webkit-font-smoothing: antialiased;
 
   @media (prefers-color-scheme: dark) {
-    background: #1a1c1e;
+    background: black;
+    color: white;
   }
 }
 
@@ -59,15 +60,13 @@ h1, h2, h3 {
 
 }
 h1 {
-
   margin-top: 2%;
   margin-bottom: 2%;
   font-size: 16vmin;
   line-height: 1;
-  text-transform: uppercase;
 
   @media (prefers-color-scheme: dark) {
-    color: $white;
+    color: white;
   }
 }
 
@@ -94,12 +93,6 @@ a {
   
 }
 
-hr {
-  margin: 64px 0;
-  border: none;
-  width: 1000px;
-}
-
 p {
   margin: 4% 0;
 }
@@ -110,41 +103,59 @@ details {
   cursor: pointer;
   color: grey;
 
-  &.question summary::marker {
-    content: '⁇';
-    color: orangered;
+  & summary::after {
+    margin-left: 12px;
+    font-size: 2vmin;
+    font-weight: bold;
+    text-transform: uppercase;
+    opacity: .75;
+  }
+
+  &.question summary, 
+  &.question summary::marker, 
+  &.question summary::after  { 
+    color: lightcoral;
+    vertical-align: middle;
+  }
+
+  &.think summary, 
+  &.think summary::marker, 
+  &.think summary::after  { 
+    color: coral;
+    vertical-align: middle;
+  }
+
+  &.media summary, 
+  &.media summary::marker, 
+  &.media summary::after  { 
+    color: teal;
+    vertical-align: middle;
+  }
+
+  &.question summary::after { 
+    content: "(Busca)";
+    font-size: 2vmin;
+  }
+  
+  &.think summary::after { 
+    content: "(Piensa)";
+    font-size: 2vmin;
+  }
+
+  &.media summary::after { 
+    content: "(Mira)";
+    font-size: 2vmin;
   }
 }
 
 article {
   hyphens: auto;
   max-width: $wide;
-  margin: 40px 0 0 0;
 
+}
 
-  & ul, & ol {
-    margin: 0 0 24px;
-
-    & p {
-      margin: 0 0 24px;
-    }
-
-  }
-
-  @media (prefers-color-scheme: dark) {
-    color: #ddd;
-  }
-
-  & strong {
-    color: #000;
-
-    @media (prefers-color-scheme: dark) {
-      color: #ddc;
-    }
-  }
-
-
-
+ul, ol, p {
+  margin: 0 0 3%;
 }
 
 blockquote {
@@ -155,45 +166,14 @@ blockquote {
     margin: 0;
     max-width: $wide;
     font-weight: bold;
-
-    @media (prefers-color-scheme: dark) {
-    }
-  
   }
-
 
 }
 
-table {
-  width: 800px;
-  margin: 32px 0;
-}
-
-tr.separador {
-  padding: 14px 0;
-}
-
-th {
-  padding: 0 60px 6px 0;
-  font-weight: normal;
-  text-align: left;
-  border-bottom: 1px solid #999;
-}
-
-td {
-  padding: 0 30px 6px 0;
-  vertical-align: top;
-
-  &:nth-child(1) {
-
-  }
-  &:nth-child(3) {
-    font-size: 18px;
-  }
-  
-  & img {
-    max-width: 96px;
-  }
+hr {
+  height: 10vw;
+  border: none;
+  background: transparent;
 }
 
 picture {
