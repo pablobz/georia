@@ -54,7 +54,7 @@ El reino asturiano, con capital en Oviedo, sobrevivió gracias a que el emirato 
   El valle del Duero era una zona fértil que podía dar al reino grandes riquezas. Pero para eso necesitaba pobladores que trabajaran y defendieran la tierra.
 </details>
 
-<details class="question">
+<details class="media">
   <summary>Evolución del Reino de Asturias</summary>
 
   <figure>
