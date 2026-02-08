@@ -1,5 +1,6 @@
 // colors
-$white: #fff;
+$white: #fffffa;
+$black: #333;
 $blue: #266bd2;
 $violet: #6c71c4;
 $orange: #BC4A3C;
@@ -36,12 +37,12 @@ body {
   margin: clamp(1rem, 4vw, 4rem);
   padding: 0;
 
-  background: white;
+  background: $white;
   font-family: $sans;
-  font-size: clamp(1.75rem, 5vw, 3rem);
-  font-weight: 500;
-  line-height: 1.2;
-  color: #000;
+  font-size: clamp(2rem, 5vw, 3.25rem);
+  font-weight: 600;
+  line-height: 1.1;
+  color: #333;
 
   text-rendering: optimizeSpeed;
   hyphens: auto;
@@ -55,14 +56,8 @@ body {
 }
 
 nav {
-
   margin-bottom: 10%;
   font-size: 3vmin;
-
-  @media (prefers-color-scheme: dark) {
-    color: #999; 
-  }
-
 }
 
 h1, h2, h3 {
@@ -96,12 +91,12 @@ h2 {
 }
 
 a {
-  color: #000;
+  color: $black;
   text-decoration: underline;
   text-decoration-thickness: 4px;
 
   @media (prefers-color-scheme: dark) {
-    color: #fff;
+    color: $white;
   }
   
 }
@@ -113,7 +108,10 @@ p {
 details {
   margin: 2% 0;
   font-size: clamp(1.5rem, 4vw, 2.25rem);
-  cursor: pointer;
+
+  & summary {
+    cursor: pointer;
+  }
 
   & summary::after {
     margin-left: 12px;
@@ -126,21 +124,21 @@ details {
   &.question summary, 
   &.question summary::marker, 
   &.question summary::after  { 
-    color: tomato;
+    color: $orange;
     vertical-align: middle;
   }
 
   &.think summary, 
   &.think summary::marker, 
   &.think summary::after  { 
-    color: tomato;
+    color: $orange;
     vertical-align: middle;
   }
 
   &.media summary, 
   &.media summary::marker, 
   &.media summary::after  { 
-    color: olivedrab;
+    color: $violet;
     vertical-align: middle;
   }
 
@@ -158,16 +156,24 @@ details {
     content: "(Mira)";
     font-size: 2vmin;
   }
+
+  & p, & ol, & ul, & figure {
+    margin: 1% 0 0 2%;
+    line-height: 1.2;
+  }
 }
 
 article {
   hyphens: auto;
   max-width: $wide;
-
 }
 
 ul, ol, p {
   margin: 0 0 3%;
+}
+
+ol.index li {
+  margin-bottom: 1%;
 }
 
 ol.index li::marker {
@@ -199,14 +205,13 @@ picture {
 }
 
 figure {
-  margin: 0;
+  margin: 0 0 2%;
 }
 
 figcaption {
   margin-top: 2px;
   font-size: 16px;
-  font-weight: bold;
-  line-height: 22px;
+  font-weight: 400;
 }
 
 img {
@@ -226,8 +231,7 @@ small {
 
 aside {
   font-size: 90%;
-  color: grey;
   & strong {
-    color: white;
+    color: $blue;
   }
 }

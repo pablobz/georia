@@ -5,6 +5,8 @@ title: Georia
 
 <p><a>Georia</a> es un sitio web para la enseñanza de las materias de <em>Geografía</em>, <em>Historia</em> e <em>Historia del Arte</em> en la Educación Secundaria Obligatoria y el Bachillerato. El objetivo es desarrollar, recopilar y utilizar mejores <a>herramientas para aprender</a>.</p>
 
-{%- for curso in collections.curso | getOrdered -%}
-<a href="{{ curso.url }}">{{ curso.data.title }}</a> de {{ curso.data.etapa }}<br><small>{{ curso.data.materia }}</small><br><br>
+<ol class="index">
+{%- for curso in collections.curso | sort(attribute="data.orden") -%}
+<li><a href="{{ curso.url }}">{{ curso.data.title }}</a> de {{ curso.data.etapa }}</li>
 {%- endfor -%}
+</ol>
