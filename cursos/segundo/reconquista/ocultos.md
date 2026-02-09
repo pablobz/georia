@@ -29,7 +29,7 @@ Cuentan las crónicas que Don Pelayo, un noble visigodo, se opuso a la conquista
   <summary>El Santuario de Covadonga</summary>
   
   <figure>
-    <img src="/assets/img/covadonga-dibujo.png">
+    <img src="/assets/img/segundo/covadonga.jpg">
     <figcaption>Santuario de Covadonga</figcaption>
   </figure>
 </details>
