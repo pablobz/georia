@@ -115,14 +115,29 @@ Por su parte, el reino de Pamplona se extendió y se convirtió en reino de Nava
 
 ---
 
-Tareas para el cuaderno
+<section class="actividades">
 
-<aside>
+  <aside class="sabio">
 
-**Sabio cortesano** » Escribe una crónica de la batalla de Covadonga desde el punto de vista del bando que prefieras (Asturias o el Emirato de Córdoba).
+    <h3>Sabio cortesano</h3> 
+  
+    Escribe una crónica de la batalla de Covadonga desde el punto de vista del bando que prefieras (Asturias o el Emirato de Córdoba).
 
-**Historiador erudito** » Busca entre los símbolos de las actuales CC.AA. de Asturias y Navarra cualquier elemento que haga referencia esta época.
+  </aside>
+   
+   <aside class="sabio">
 
-**Trovador admirado** » Escribe un breve cuento ambientado en uno de los primeros reinos cristianos. Haz que un personaje describa la situación y exponga lo que espera del futuro.
+    <h3>Historiador erudito</h3> 
+  
+    Busca entre los símbolos de las actuales CC.AA. de Asturias y Navarra cualquier elemento que haga referencia esta época.
+  </aside>
+ 
+  <aside class="sabio">
 
-</aside>
+    <h3>Trovador admirado</h3> 
+  
+   Escribe un breve cuento ambientado en uno de los primeros reinos cristianos. Haz que un personaje describa la situación y exponga lo que espera del futuro.
+
+  </aside>
+
+</section>

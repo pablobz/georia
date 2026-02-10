@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @font-face {
   font-family: sansFont;
   src: url(../fonts/sans-regular.woff2);
@@ -193,11 +194,35 @@ small {
   font-style: italic;
 }
 
-aside {
-  font-size: 90%;
+section.actividades {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  justify-content: center;
 }
-aside strong {
-  color: #6c71c4;
+
+@media (min-width: 640px) {
+  .actividades {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    justify-content: center;
+  }
+}
+@media (min-width: 960px) {
+  .actividades {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+.actividades > aside {
+  max-width: 420px; /* ← aquí decides el “flotado” */
+  width: 100%;
+  margin: 0 auto; /* centra cada tarjeta dentro de su columna */
+  position: relative;
+  border-radius: 14px;
+  padding: 1rem;
+  min-height: 140px;
+  font-size: 1.6rem;
+  background: #BC4A3C;
+  color: #fff;
 }
 
 /*# sourceMappingURL=global.css.map */
