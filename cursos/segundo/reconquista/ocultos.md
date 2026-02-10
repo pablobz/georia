@@ -114,25 +114,33 @@ Por su parte, el reino de Pamplona se extendió y se convirtió en reino de Nava
 </details>
 
 ---
+ 
+## Actividades para el cuaderno
 
 <section class="actividades">
 
   <aside class="sabio">
 
-    <h3>Sabio cortesano</h3> 
+    <img src=/assets/img/logros/1.png />
   
+    <h3>Sabio cortesano</h3> 
+    
     Escribe una crónica de la batalla de Covadonga desde el punto de vista del bando que prefieras (Asturias o el Emirato de Córdoba).
 
   </aside>
    
-   <aside class="sabio">
+   <aside class="historiador">
+    
+    <img src=/assets/img/logros/3.png />
 
     <h3>Historiador erudito</h3> 
   
     Busca entre los símbolos de las actuales CC.AA. de Asturias y Navarra cualquier elemento que haga referencia esta época.
   </aside>
  
-  <aside class="sabio">
+  <aside class="trovador">
+  
+    <img src=/assets/img/logros/4.png />
 
     <h3>Trovador admirado</h3> 
   
