@@ -5,6 +5,7 @@ title: Ocultos en las montañas
 curso: eso2
 unidad: reconquista
 order: 20
+numero: II
 ---
   
 <figure>

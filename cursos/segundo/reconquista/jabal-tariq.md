@@ -5,6 +5,7 @@ title: Jabal Tariq
 curso: eso2
 unidad: reconquista
 order: 10
+numero: I
 ---
 
 **En el año 711, la Península ibérica estaba dominada por los visigodos, pero el reino se encontraba en plena crisis. El rey Witiza había muerto, y fue sucedido por un nuevo y joven rey, llamado Rodrigo.**

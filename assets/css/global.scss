@@ -93,7 +93,7 @@ h2 {
 a {
   color: $black;
   text-decoration: underline;
-  text-decoration-thickness: 4px;
+  text-decoration-thickness: 2px;
 
   @media (prefers-color-scheme: dark) {
     color: $white;
@@ -223,10 +223,8 @@ img {
 }
 
 small {
-  font-family: $serif;
-  font-size: 3vmin;
+  font-size: 2vmin;
   font-weight: normal;
-  font-style: italic;
 }
 
 section.actividades {
@@ -267,11 +265,15 @@ section.actividades {
     background-color: $violet;
   }
   &.historiador { 
-    background-color: $green;
+    background-color: $red;
   }
   &.trovador { 
+    background-color: $green;
+  }
+  &.cartografo { 
     background-color: $blue;
   }
+
 
 }
 
