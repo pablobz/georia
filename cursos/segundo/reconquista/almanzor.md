@@ -10,13 +10,9 @@ numero: IV
 
 Hacia el año 1000, el poder más fuerte de la península ibérica era el del califato de Córdoba. Su figura clave fue Almanzor, un gobernante que, sin ser califa, dirigió el ejército y el gobierno. Organizó decenas de campañas militares contra los reinos cristianos del norte y arrasó ciudades como Barcelona, León o Santiago de Compostela. Durante años, nadie pudo detenerlo.
 
-<details class="media">
-  <summary>Las campañas de Almanzor</summary>
-  
-  <figure>
-    <img src="/assets/img/segundo/almanzor-ataques.png">
-  </figure>
-</details>
+<figure>
+  <img src="/assets/img/segundo/almanzor-ataques.png">
+</figure>
 
 ---
 

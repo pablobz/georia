@@ -56,7 +56,7 @@ body {
 }
 
 nav {
-  margin-bottom: 10%;
+  margin-bottom: 15%;
   font-size: clamp(1.75rem, 3.5vw, 2.25rem);
 }
 
@@ -227,7 +227,7 @@ small {
   font-weight: normal;
 }
 
-section.actividades {
+.actividades {
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -236,24 +236,15 @@ section.actividades {
 
 @media (min-width: 640px) {
   .actividades {
-    grid-template-columns: repeat(3, minmax(300px, 1fr));
-    justify-content: left;
+    grid-template-columns: repeat(auto-fit, minmax(32%,32%));
+    justify-content: start;
   }
 }
 
-@media (min-width: 960px) {
-  .actividades {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
+
 .actividades > aside {
-  max-width: 420px;   /* ← aquí decides el “flotado” */
-  margin: 0 auto;     /* centra cada tarjeta dentro de su columna */
-
-  position: relative;
   border-radius: 14px;
   padding: 1.5rem;
-  min-height: 140px;
 
   font-size: 1.4rem;
   line-height: 1.3;
@@ -279,6 +270,52 @@ section.actividades {
 
 .actividades h3 {
   margin: 6px;
+  font-size: 2rem;
   text-align: center;
+  color: #fff;
 }
 
+
+
+
+.ampliar {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  justify-content: center;
+}
+
+@media (min-width: 640px) {
+  .ampliar {
+    grid-template-columns: repeat(auto-fit, minmax(200px,300px));
+    justify-content: start;
+  }
+}
+
+.ampliar a {
+  display: block;
+  border-radius: 14px;
+  padding: 1.5rem;
+
+  font-size: 1.4rem;
+  line-height: 1.3;
+  text-align: center;
+  background: $orange;
+  color: #fff;
+  text-decoration: none;
+  
+  &::before {
+      display: block;
+      font-size: 8rem;
+      text-align: center;
+    }
+
+  &.video { 
+    background-color: $black;
+    &::before { content: "📺"; }
+  }
+  &.texto { 
+    background-color: $black;
+    &::before { content: "📝"; }
+  }
+}

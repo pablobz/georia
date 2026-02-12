@@ -131,18 +131,14 @@ Por su parte, el reino de Pamplona se extendió y se convirtió en reino de Nava
   </aside>
    
    <aside class="historiador">
-    
     <img src=/assets/img/logros/3.png />
-
     <h3>Historiador erudito</h3> 
   
     Busca entre los símbolos de las actuales CC.AA. de Asturias y Navarra cualquier elemento que haga referencia esta época.
   </aside>
  
   <aside class="trovador">
-  
     <img src=/assets/img/logros/4.png />
-
     <h3>Trovador admirado</h3> 
   
    Escribe un breve cuento ambientado en uno de los primeros reinos cristianos. Haz que un personaje describa la situación y exponga lo que espera del futuro.
