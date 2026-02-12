@@ -236,8 +236,8 @@ section.actividades {
 
 @media (min-width: 640px) {
   .actividades {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    justify-content: center;
+    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    justify-content: left;
   }
 }
 
