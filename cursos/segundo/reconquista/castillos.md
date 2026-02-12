@@ -26,7 +26,7 @@ Entre Asturias y Navarra, en las provincias actuales de Cantabria, Álava y Burg
 ---
 
 <figure>
-  <img src="/assets/img/segundo/castillo-rodilla.png">
+  <img src="/assets/img/segundo/castillo-gormaz.jpg">
 </figure>
 
 Para protegerse de los ataques musulmanes, los condes que la gobernaban tuvieron que construir un gran número de castillos, y con el tiempo, la zona empezó a conocerse como Castilla.
@@ -34,7 +34,7 @@ Para protegerse de los ataques musulmanes, los condes que la gobernaban tuvieron
 ---
 
 <figure>
-  <img src="/assets/img/segundo/fernan-gonzalez.png">
+  <img src="/assets/img/segundo/santa-gadea.jpg">
 </figure>
 
 La fuerza de Castilla hizo que sus condes ganaran poder y autonomía con respecto a León. El conde Fernán González logró en que sus hijos heredaran el condado. Con el tiempo, Castilla se convirtió en reino, se unió a León y terminó convirtiéndose en el más importante de los reinos peninsulares.
