@@ -59,7 +59,7 @@ La fuerza de Castilla hizo que sus condes ganaran poder y autonomía con respect
 
     <h3>Historiador erudito</h3> 
   
-    Averigua quién fue el primer rey de Castilla y en qué año fue coronado. Investiga también si fue, además, rey de algún otro reino.
+    Averigua cuál es el origen de uno de tus apellidos y si tiene alguna relación con la época que estamos estudiando.
     
   </aside>
    
