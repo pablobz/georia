@@ -16,11 +16,11 @@ Hacia el año 1000, el poder más fuerte de la península ibérica era el del ca
 
 ---
 
-En los reinos cristianos se extendió el miedo, porque parecía que el islam acabaría dominando toda la península. Sin embargo, todo cambió tras la muerte de Almanzor en 1002. 
+Parecía que el islam acabaría dominando toda la península, pero todo cambió tras la muerte de Almanzor en el año 1002. El califato entró en crisis y comenzó una guerra civil. Al-Ándalus se fragmentó en pequeños reinos llamados taifas. Los reinos cristianos aprovecharon la situación y reanudaron su expansión hacia el sur.
 
-El califato entró en crisis y comenzó una guerra civil. En pocos años, al-Ándalus se fragmentó en pequeños reinos llamados taifas. Los reinos cristianos aprovecharon la situación y reanudaron su expansión hacia el sur.
-
----
+<figure>
+  <img src="/assets/img/segundo/mapa-taifas.png">
+</figure>
 
 Fue entonces cuando se popularizaron las historias sobre Don Pelayo y cuando empezó a hablarse de Reconquista.
 
