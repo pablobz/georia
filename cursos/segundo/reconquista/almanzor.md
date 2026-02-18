@@ -30,7 +30,7 @@ Fue entonces cuando se popularizaron las historias sobre Don Pelayo y cuando emp
 
 <section class="actividades">
 
-   <aside class="historiador">
+   <aside class="sabio">
     
     <img src=/assets/img/logros/6.png />
 
