@@ -32,11 +32,11 @@ Fue entonces cuando se popularizaron las historias sobre Don Pelayo y cuando emp
 
    <aside class="historiador">
     
-    <img src=/assets/img/logros/3.png />
+    <img src=/assets/img/logros/6.png />
 
-    <h3>Historiador erudito</h3> 
+    <h3>Sabio cortesano</h3> 
   
-    Investiga qué pasó después con los reinos de Castilla y Aragón y qué eran las parias.
+    Explica por qué crees que se hizo popular la historia de Don Pelayo en este momento.
     
   </aside>
    
