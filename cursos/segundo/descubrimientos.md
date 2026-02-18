@@ -1,36 +1,24 @@
 ---
 layout: lesson
 tags: unidad
-title: El giro colombino
-curso: eso5
+title: El nuevo mundo
+curso: eso2
 orden: 70
 ---
 
-## La escena representa, según una interpretación muy personal del pintor, la primera expedición a las Indias de Cristóbal Colón (1451/1456?-Valladolid, 1506), y su llegada a Guanahaní el 12 de octubre de 1492, bautizando a esta tierra con el nombre de San Salvador. 
+Esquema del tema
 
-En tierra firme un Colón de blanca cabellera, rodilla en tierra, vestido de rojo, con el estandarte enhiesto en su mano izquierda y la espada rendida en la derecha, dirige los ojos hacia el cielo. Le rodean sus compañeros, que van llegando en barcas, representados por personajes vestidos de distinto modo según sean marineros o soldados. 
+Índice
 
-<picture>
-  <img src="/assets/img/desembarco-colon.jpg">
-</picture>
+1. El mundo del siglo XIV desde la perspectiva de un europeo. Los tres continentes. La caída de Constantinopla. Comentario del mapamundi de Martellus. CUADERNO.
 
-## Metas docentes
+2. Los avances en la navegación. Motivos y ejemplos. Los descubrimientos portugueses, aragoneses y castellanos. CUADERNO.
 
-1. Comprender las causas del viaje de Colón en el doble contexto macrohistórico (el desarrollo de las civilizaciones euroasiáticas frente a las americanas) y microhistórico (el papel de Castilla frente a otros reinos atlánticos y mediterráneos). 
+3. Los viajes de Cristóbal Colón. UN DÍA A BORDO.
 
-2. Integrar el papel de la navegación y el desarrollo tecnológico como requisitos del viaje, y vislumbrar las enormes consecuencias del hallazgo colombino.
+4. Los pueblos precolombinos. EXPOSICIÓN ARTÍSTICA.
 
-3. Conocer y valorar las culturas precolombinas en su diversidad, como pueblos complejos y desarrollados, y entrar en contacto con sus principales manifestaciones artísticas.
 
-## Pregunta guía
-
-Por qué no se habían conocido antes los pueblos euroasiáticos y americanos. Relación con la cuestión clave de la modernidad: la mirada pretérita y la desconfianza en el futuro. Relación también con el próximo tema, que trata en detalle la nueva mentalidad.
-
-## Relación con la actualidad
-
-Tratar de imbuir una aproximación al pasado basada en el asombro de que un simple viaje pudiera tener tantas consecuencias y cambiar el mundo a tantos niveles distintos. Imaginar qué podría pasar hoy día y deducir que no somos capaces de preverlo, que todo lo que tenemos, tanto lo bueno como lo malo, puede cambiar y seguramente cambie. 
-
-Pensar cuál será la América de nuestro tiempo. ¿Marte? ¿La luna? ¿Otras galaxias? ¿Cómo trataríamos a una raza alienígena que encontrásemos en la exploración espacial?
 
 ## Tareas
 
