@@ -30,6 +30,16 @@ Fue entonces cuando se popularizaron las historias sobre Don Pelayo y cuando emp
 
 <section class="actividades">
 
+   <aside class="cartografo">
+  
+    <img src=/assets/img/logros/2.png />
+
+    <h3>Cartógrafo del rey</h3> 
+  
+   Elabora un mapa en el que se muestre la época de Almanzor y también la de los reinos de taifas.
+
+  </aside>
+  
    <aside class="sabio">
     
     <img src=/assets/img/logros/6.png />
@@ -40,15 +50,6 @@ Fue entonces cuando se popularizaron las historias sobre Don Pelayo y cuando emp
     
   </aside>
    
-   <aside class="cartografo">
-  
-    <img src=/assets/img/logros/2.png />
-
-    <h3>Cartógrafo del rey</h3> 
-  
-   Elabora un mapa en el que se muestre la época de Almanzor y también la de los reinos de taifas.
-
-  </aside>
 
   
   <aside class="trovador">
