@@ -8,7 +8,7 @@ order: 60
 numero: VI
 ---
 
-En 1212 tuvo lugar la batalla de Batalla de las Navas de Tolosa. Frente al poderoso imperio almohade, que dominaba al-Ándalus, se unieron los principales reyes cristianos de la península: Alfonso VIII de Castilla, Pedro II de Aragón y Sancho VII de Navarra. También participaron tropas de otros territorios y órdenes militares.
+En 1212 tuvo lugar la batalla de las Navas de Tolosa. Frente al poderoso imperio almohade, que dominaba al-Ándalus, se unieron los principales reyes cristianos de la península: Alfonso VIII de Castilla, Pedro II de Aragón y Sancho VII de Navarra. También participaron tropas de otros territorios y órdenes militares.
 
 ---
 
