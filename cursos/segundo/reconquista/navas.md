@@ -12,9 +12,17 @@ En 1212 tuvo lugar la batalla de las Navas de Tolosa. Frente al poderoso imperio
 
 ---
 
+<figure>
+  <img src="/assets/img/segundo/navas-tolosa.jpg">
+</figure>
+
 Esa unión fue decisiva. Los ejércitos cristianos derrotaron al califa almohade y rompieron su poder en la península. La victoria abrió un cambio de etapa definitivo.
 
 ---
+
+<figure>
+  <img src="/assets/img/segundo/mapa-navas-tolosa.png">
+</figure>
 
 A partir de entonces comenzó la gran conquista de Andalucía. En pocas décadas, Castilla ocupó ciudades como Córdoba y Sevilla, y el dominio musulmán quedó reducido al reino de Granada.
 
