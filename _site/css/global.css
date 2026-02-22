@@ -226,6 +226,9 @@ small {
 .actividades > aside.cartografo {
   background-color: #266bd2;
 }
+.actividades > aside.artista {
+  background-color: pink;
+}
 
 .actividades h3 {
   margin: 6px;
