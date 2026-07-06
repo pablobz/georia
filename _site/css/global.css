@@ -19,10 +19,10 @@ body {
   margin: clamp(1rem, 4vw, 4rem);
   padding: 0;
   background: #fffffa;
-  font-family: sansFont, Helvetica, Arial, monospace;
-  font-size: clamp(2.5rem, 5vw, 3.25rem);
+  font-family: Helvetica, Arial, monospace;
+  font-size: clamp(1.25rem, 2vw, 2rem);
   font-weight: 400;
-  line-height: 1.1;
+  line-height: 1.25;
   color: #333;
   text-rendering: optimizeSpeed;
   hyphens: auto;
@@ -38,7 +38,6 @@ body {
 
 nav {
   margin-bottom: 15%;
-  font-size: clamp(1.75rem, 3.5vw, 2.25rem);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -73,7 +72,7 @@ h2 {
 }
 
 a {
-  color: #333;
+  color: #266bd2;
   text-decoration: underline;
   text-decoration-thickness: 2px;
 }
@@ -128,6 +127,10 @@ details.media summary::after {
 details p, details ol, details ul, details figure {
   margin: 1% 0 0 2%;
   line-height: 1.2;
+}
+
+em {
+  font-family: "Times New Roman", Times, Serif;
 }
 
 article {

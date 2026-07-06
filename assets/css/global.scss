@@ -19,7 +19,7 @@ $red: #f30;
   font-weight: bold;
 }
 
-$sans: sansFont, Helvetica, Arial, monospace;
+$sans: Helvetica, Arial, monospace;
 $serif: "Times New Roman", Times, Serif;
 
 // spaces
@@ -39,9 +39,9 @@ body {
 
   background: $white;
   font-family: $sans;
-  font-size: clamp(2.5rem, 5vw, 3.25rem);
+  font-size: clamp(1.25rem, 2vw, 2rem);
   font-weight: 400;
-  line-height: 1.1;
+  line-height: 1.25;
   color: #333;
 
   text-rendering: optimizeSpeed;
@@ -57,7 +57,6 @@ body {
 
 nav {
   margin-bottom: 15%;
-  font-size: clamp(1.75rem, 3.5vw, 2.25rem);
 }
 
 h1, h2, h3 {
@@ -91,7 +90,7 @@ h2 {
 }
 
 a {
-  color: $black;
+  color: $blue;
   text-decoration: underline;
   text-decoration-thickness: 2px;
 
@@ -161,6 +160,10 @@ details {
     margin: 1% 0 0 2%;
     line-height: 1.2;
   }
+}
+
+em {
+  font-family: $serif;
 }
 
 article {
